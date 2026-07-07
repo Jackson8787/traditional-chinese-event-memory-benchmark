@@ -1,0 +1,7 @@
+# Optional packages for the full experiment pipeline.
+# The current MVP runs without these dependencies.
+sentence-transformers
+datasets
+openai
+scikit-learn
+chromadb

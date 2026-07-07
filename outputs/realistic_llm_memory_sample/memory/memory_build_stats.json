@@ -1,0 +1,12 @@
+{
+  "selected_qa_count": 60,
+  "selected_user_count": 2,
+  "selected_session_count": 60,
+  "llm_calls_attempted": 60,
+  "llm_calls_failed": 0,
+  "parsed_event_count": 550,
+  "predicted_relation_count": 568,
+  "elapsed_ms": 3065565,
+  "predicted_relation_count_raw": 1723,
+  "relation_filter": "slot_aware_conservative_v2"
+}

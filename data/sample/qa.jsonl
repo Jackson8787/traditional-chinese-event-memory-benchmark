@@ -1,0 +1,4 @@
+{"question_id":"q01","user_id":"u01","question":"使用者現在主要在準備什麼？","question_type":"knowledge_update","gold_answer":"使用者改為尋找暑期實習","gold_evidence_turn_ids":["s03_t01"],"valid_time":"current","requires_abstention":false,"gold_event_ids":[]}
+{"question_id":"q02","user_id":"u01","question":"使用者三月時原本在準備什麼？","question_type":"temporal_reasoning","gold_answer":"使用者準備研究所考試","gold_evidence_turn_ids":["s01_t01"],"valid_time":"2026-03","requires_abstention":false,"gold_event_ids":[]}
+{"question_id":"q03","user_id":"u01","question":"使用者現在偏好的實習地點是哪裡？","question_type":"conflict_resolution","gold_answer":"使用者偏好新竹或遠端的機會","gold_evidence_turn_ids":["s04_t01"],"valid_time":"current","requires_abstention":false,"gold_event_ids":[]}
+{"question_id":"q04","user_id":"u01","question":"使用者有沒有提過想去哪一家公司？","question_type":"abstention","gold_answer":"","gold_evidence_turn_ids":[],"valid_time":"current","requires_abstention":true,"gold_event_ids":[]}

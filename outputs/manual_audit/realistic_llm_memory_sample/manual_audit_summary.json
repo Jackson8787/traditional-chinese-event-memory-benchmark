@@ -1,0 +1,90 @@
+{
+  "relations": {
+    "total_rows": 100,
+    "labeled_count": 100,
+    "pending_count": 0,
+    "by_type": {
+      "supersedes": {
+        "correct": 5,
+        "partially_correct": 0,
+        "incorrect": 10,
+        "unclear": 0,
+        "labeled_count": 15,
+        "precision": 0.3333333333333333
+      },
+      "supplements": {
+        "correct": 46,
+        "partially_correct": 39,
+        "incorrect": 0,
+        "unclear": 0,
+        "labeled_count": 85,
+        "precision": 0.5411764705882353
+      }
+    }
+  },
+  "answers": {
+    "total_rows": 50,
+    "labeled_count": 50,
+    "pending_count": 0,
+    "by_question_type": {
+      "conflict_resolution": {
+        "correct": 8,
+        "partially_correct": 2,
+        "incorrect": 2,
+        "abstention_correct": 0,
+        "unclear": 0,
+        "labeled_count": 12,
+        "precision": 0.6666666666666666
+      },
+      "knowledge_update": {
+        "correct": 8,
+        "partially_correct": 5,
+        "incorrect": 1,
+        "abstention_correct": 0,
+        "unclear": 0,
+        "labeled_count": 14,
+        "precision": 0.5714285714285714
+      },
+      "multi_session_reasoning": {
+        "correct": 2,
+        "partially_correct": 6,
+        "incorrect": 1,
+        "abstention_correct": 0,
+        "unclear": 0,
+        "labeled_count": 9,
+        "precision": 0.2222222222222222
+      },
+      "single_session_fact": {
+        "correct": 0,
+        "partially_correct": 1,
+        "incorrect": 2,
+        "abstention_correct": 0,
+        "unclear": 0,
+        "labeled_count": 3,
+        "precision": 0.0
+      },
+      "temporal_reasoning": {
+        "correct": 4,
+        "partially_correct": 3,
+        "incorrect": 5,
+        "abstention_correct": 0,
+        "unclear": 0,
+        "labeled_count": 12,
+        "precision": 0.3333333333333333
+      }
+    }
+  },
+  "evidence": {
+    "labels": {
+      "complete": 22,
+      "partial": 17,
+      "wrong": 11,
+      "not_needed": 0,
+      "unclear": 0,
+      "labeled_count": 50,
+      "pending_count": 0,
+      "complete_rate": 0.44,
+      "complete_or_partial_rate": 0.78
+    }
+  }
+}

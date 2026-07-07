@@ -1,0 +1,100 @@
+{"user_id": "u01", "session_id": "u01_s01", "turn_id": "u01_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「準備研究所考試」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u01", "session_id": "u01_s02", "turn_id": "u01_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向台北。"}
+{"user_id": "u01", "session_id": "u01_s03", "turn_id": "u01_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好 NLP 題目，短期內應該不會變。"}
+{"user_id": "u01", "session_id": "u01_s04", "turn_id": "u01_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：每週三晚上要社團開會，所以那段不要排重要事情。"}
+{"user_id": "u01", "session_id": "u01_s05", "turn_id": "u01_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和室友阿哲一起租屋。"}
+{"user_id": "u01", "session_id": "u01_s06", "turn_id": "u01_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成履歷初稿這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u01", "session_id": "u01_s07", "turn_id": "u01_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續準備研究所考試，現在改成尋找暑期實習。"}
+{"user_id": "u01", "session_id": "u01_s08", "turn_id": "u01_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是台北；後來覺得新竹或遠端比較適合。"}
+{"user_id": "u01", "session_id": "u01_s09", "turn_id": "u01_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好 NLP 題目，只是想再把方向收斂一點。"}
+{"user_id": "u01", "session_id": "u01_s10", "turn_id": "u01_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成五月底前投三間實習，這會是下一個時間點。"}
+{"user_id": "u02", "session_id": "u02_s01", "turn_id": "u02_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「準備交換學生申請」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u02", "session_id": "u02_s02", "turn_id": "u02_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向台中。"}
+{"user_id": "u02", "session_id": "u02_s03", "turn_id": "u02_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好視覺化報告，短期內應該不會變。"}
+{"user_id": "u02", "session_id": "u02_s04", "turn_id": "u02_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週五下午要打工，所以那段不要排重要事情。"}
+{"user_id": "u02", "session_id": "u02_s05", "turn_id": "u02_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和學姊小安討論專題。"}
+{"user_id": "u02", "session_id": "u02_s06", "turn_id": "u02_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成英文自傳這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u02", "session_id": "u02_s07", "turn_id": "u02_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續準備交換學生申請，現在改成做校內資料分析專題。"}
+{"user_id": "u02", "session_id": "u02_s08", "turn_id": "u02_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是台中；後來覺得台北比較適合。"}
+{"user_id": "u02", "session_id": "u02_s09", "turn_id": "u02_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好視覺化報告，只是想再把方向收斂一點。"}
+{"user_id": "u02", "session_id": "u02_s10", "turn_id": "u02_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成六月前做完問卷，這會是下一個時間點。"}
+{"user_id": "u03", "session_id": "u03_s01", "turn_id": "u03_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「準備後端工程師面試」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u03", "session_id": "u03_s02", "turn_id": "u03_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向內湖。"}
+{"user_id": "u03", "session_id": "u03_s03", "turn_id": "u03_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好 Python 工具鏈，短期內應該不會變。"}
+{"user_id": "u03", "session_id": "u03_s04", "turn_id": "u03_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週二晚上固定上英文課，所以那段不要排重要事情。"}
+{"user_id": "u03", "session_id": "u03_s05", "turn_id": "u03_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和主管 Kelly 每週一同步。"}
+{"user_id": "u03", "session_id": "u03_s06", "turn_id": "u03_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成作品集整理這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u03", "session_id": "u03_s07", "turn_id": "u03_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續準備後端工程師面試，現在改成準備資料工程職缺。"}
+{"user_id": "u03", "session_id": "u03_s08", "turn_id": "u03_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是內湖；後來覺得南港或遠端比較適合。"}
+{"user_id": "u03", "session_id": "u03_s09", "turn_id": "u03_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好 Python 工具鏈，只是想再把方向收斂一點。"}
+{"user_id": "u03", "session_id": "u03_s10", "turn_id": "u03_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成月底前投五個職缺，這會是下一個時間點。"}
+{"user_id": "u04", "session_id": "u04_s01", "turn_id": "u04_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「規劃轉到資料產品團隊」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u04", "session_id": "u04_s02", "turn_id": "u04_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向松山。"}
+{"user_id": "u04", "session_id": "u04_s03", "turn_id": "u04_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好簡潔摘要，短期內應該不會變。"}
+{"user_id": "u04", "session_id": "u04_s04", "turn_id": "u04_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週四早上有部門例會，所以那段不要排重要事情。"}
+{"user_id": "u04", "session_id": "u04_s05", "turn_id": "u04_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和設計師 Mina 合作。"}
+{"user_id": "u04", "session_id": "u04_s06", "turn_id": "u04_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成需求訪談這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u04", "session_id": "u04_s07", "turn_id": "u04_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續規劃轉到資料產品團隊，現在改成留在原團隊推 AI 會議摘要。"}
+{"user_id": "u04", "session_id": "u04_s08", "turn_id": "u04_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是松山；後來覺得信義或遠端比較適合。"}
+{"user_id": "u04", "session_id": "u04_s09", "turn_id": "u04_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好簡潔摘要，只是想再把方向收斂一點。"}
+{"user_id": "u04", "session_id": "u04_s10", "turn_id": "u04_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成下週整理 MVP 規格，這會是下一個時間點。"}
+{"user_id": "u05", "session_id": "u05_s01", "turn_id": "u05_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「準備投稿 workshop」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u05", "session_id": "u05_s02", "turn_id": "u05_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向台北。"}
+{"user_id": "u05", "session_id": "u05_s03", "turn_id": "u05_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好可重現實驗，短期內應該不會變。"}
+{"user_id": "u05", "session_id": "u05_s04", "turn_id": "u05_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週三下午要 lab meeting，所以那段不要排重要事情。"}
+{"user_id": "u05", "session_id": "u05_s05", "turn_id": "u05_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和學長 Ken 共用 GPU。"}
+{"user_id": "u05", "session_id": "u05_s06", "turn_id": "u05_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成 baseline 初版這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u05", "session_id": "u05_s07", "turn_id": "u05_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續準備投稿 workshop，現在改成先完成期末專題實驗。"}
+{"user_id": "u05", "session_id": "u05_s08", "turn_id": "u05_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是台北；後來覺得新竹比較適合。"}
+{"user_id": "u05", "session_id": "u05_s09", "turn_id": "u05_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好可重現實驗，只是想再把方向收斂一點。"}
+{"user_id": "u05", "session_id": "u05_s10", "turn_id": "u05_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成六月前跑完 ablation，這會是下一個時間點。"}
+{"user_id": "u06", "session_id": "u06_s01", "turn_id": "u06_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「準備質性訪談」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u06", "session_id": "u06_s02", "turn_id": "u06_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向台南。"}
+{"user_id": "u06", "session_id": "u06_s03", "turn_id": "u06_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好匿名資料，短期內應該不會變。"}
+{"user_id": "u06", "session_id": "u06_s04", "turn_id": "u06_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週一晚上要帶討論課，所以那段不要排重要事情。"}
+{"user_id": "u06", "session_id": "u06_s05", "turn_id": "u06_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和指導教授約每兩週 meeting。"}
+{"user_id": "u06", "session_id": "u06_s06", "turn_id": "u06_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成訪談大綱這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u06", "session_id": "u06_s07", "turn_id": "u06_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續準備質性訪談，現在改成做問卷分析。"}
+{"user_id": "u06", "session_id": "u06_s08", "turn_id": "u06_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是台南；後來覺得高雄比較適合。"}
+{"user_id": "u06", "session_id": "u06_s09", "turn_id": "u06_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好匿名資料，只是想再把方向收斂一點。"}
+{"user_id": "u06", "session_id": "u06_s10", "turn_id": "u06_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成月底前收 80 份問卷，這會是下一個時間點。"}
+{"user_id": "u07", "session_id": "u07_s01", "turn_id": "u07_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「準備拍研究所備考系列」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u07", "session_id": "u07_s02", "turn_id": "u07_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向台北。"}
+{"user_id": "u07", "session_id": "u07_s03", "turn_id": "u07_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好短影音腳本，短期內應該不會變。"}
+{"user_id": "u07", "session_id": "u07_s04", "turn_id": "u07_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週末要剪片，所以那段不要排重要事情。"}
+{"user_id": "u07", "session_id": "u07_s05", "turn_id": "u07_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和剪輯師阿凱合作。"}
+{"user_id": "u07", "session_id": "u07_s06", "turn_id": "u07_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成三集大綱這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u07", "session_id": "u07_s07", "turn_id": "u07_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續準備拍研究所備考系列，現在改成拍實習求職系列。"}
+{"user_id": "u07", "session_id": "u07_s08", "turn_id": "u07_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是台北；後來覺得新竹或遠端比較適合。"}
+{"user_id": "u07", "session_id": "u07_s09", "turn_id": "u07_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好短影音腳本，只是想再把方向收斂一點。"}
+{"user_id": "u07", "session_id": "u07_s10", "turn_id": "u07_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成下月發布第一支影片，這會是下一個時間點。"}
+{"user_id": "u08", "session_id": "u08_s01", "turn_id": "u08_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「規劃訪談 AI 研究者」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u08", "session_id": "u08_s02", "turn_id": "u08_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向線上。"}
+{"user_id": "u08", "session_id": "u08_s03", "turn_id": "u08_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好深度訪談，短期內應該不會變。"}
+{"user_id": "u08", "session_id": "u08_s04", "turn_id": "u08_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週三晚上錄音，所以那段不要排重要事情。"}
+{"user_id": "u08", "session_id": "u08_s05", "turn_id": "u08_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和共同主持人 Nora 分工。"}
+{"user_id": "u08", "session_id": "u08_s06", "turn_id": "u08_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成來賓邀約信這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u08", "session_id": "u08_s07", "turn_id": "u08_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續規劃訪談 AI 研究者，現在改成做台灣開源社群系列。"}
+{"user_id": "u08", "session_id": "u08_s08", "turn_id": "u08_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是線上；後來覺得台北現場比較適合。"}
+{"user_id": "u08", "session_id": "u08_s09", "turn_id": "u08_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好深度訪談，只是想再把方向收斂一點。"}
+{"user_id": "u08", "session_id": "u08_s10", "turn_id": "u08_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成六月排定四位來賓，這會是下一個時間點。"}
+{"user_id": "u09", "session_id": "u09_s01", "turn_id": "u09_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「安排媽媽復健交通」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u09", "session_id": "u09_s02", "turn_id": "u09_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向台北車站。"}
+{"user_id": "u09", "session_id": "u09_s03", "turn_id": "u09_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好晚間可處理的事項，短期內應該不會變。"}
+{"user_id": "u09", "session_id": "u09_s04", "turn_id": "u09_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：每週三晚上要照顧家人，所以那段不要排重要事情。"}
+{"user_id": "u09", "session_id": "u09_s05", "turn_id": "u09_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和弟弟輪流陪診。"}
+{"user_id": "u09", "session_id": "u09_s06", "turn_id": "u09_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成長照諮詢這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u09", "session_id": "u09_s07", "turn_id": "u09_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續安排媽媽復健交通，現在改成申請長照接送服務。"}
+{"user_id": "u09", "session_id": "u09_s08", "turn_id": "u09_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是台北車站；後來覺得板橋比較適合。"}
+{"user_id": "u09", "session_id": "u09_s09", "turn_id": "u09_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好晚間可處理的事項，只是想再把方向收斂一點。"}
+{"user_id": "u09", "session_id": "u09_s10", "turn_id": "u09_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成下週確認接送時段，這會是下一個時間點。"}
+{"user_id": "u10", "session_id": "u10_s01", "turn_id": "u10_s01_t01", "speaker": "user", "timestamp": "2026-03-01", "text": "最近我把「自己開車載父親回診」排進日程，想先把準備節奏抓穩。"}
+{"user_id": "u10", "session_id": "u10_s02", "turn_id": "u10_s02_t01", "speaker": "user", "timestamp": "2026-03-08", "text": "地點的話，我原本會比較傾向新店。"}
+{"user_id": "u10", "session_id": "u10_s03", "turn_id": "u10_s03_t01", "speaker": "user", "timestamp": "2026-03-15", "text": "說到偏好，我一直是偏好手機提醒，短期內應該不會變。"}
+{"user_id": "u10", "session_id": "u10_s04", "turn_id": "u10_s04_t01", "speaker": "user", "timestamp": "2026-03-22", "text": "固定限制先記一下：週五上午要陪診，所以那段不要排重要事情。"}
+{"user_id": "u10", "session_id": "u10_s05", "turn_id": "u10_s05_t01", "speaker": "user", "timestamp": "2026-03-29", "text": "很多安排我都會先確認，因為和家人分攤行政文件。"}
+{"user_id": "u10", "session_id": "u10_s06", "turn_id": "u10_s06_t01", "speaker": "user", "timestamp": "2026-04-05", "text": "完成復康巴士註冊這件事我已經處理完了，接著可以往下一步走。"}
+{"user_id": "u10", "session_id": "u10_s07", "turn_id": "u10_s07_t01", "speaker": "user", "timestamp": "2026-04-12", "text": "後來想了一下，我不打算繼續自己開車載父親回診，現在改成搭復康巴士。"}
+{"user_id": "u10", "session_id": "u10_s08", "turn_id": "u10_s08_t01", "speaker": "user", "timestamp": "2026-04-19", "text": "地點要更新一下，不是新店；後來覺得萬芳比較適合。"}
+{"user_id": "u10", "session_id": "u10_s09", "turn_id": "u10_s09_t01", "speaker": "user", "timestamp": "2026-04-26", "text": "偏好沒有變，我還是偏好手機提醒，只是想再把方向收斂一點。"}
+{"user_id": "u10", "session_id": "u10_s10", "turn_id": "u10_s10_t01", "speaker": "user", "timestamp": "2026-05-03", "text": "接下來我希望先完成月底前設定回診提醒，這會是下一個時間點。"}

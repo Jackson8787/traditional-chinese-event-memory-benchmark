@@ -1,0 +1,14 @@
+{
+  "event_count": 550,
+  "structured_event_count": 508,
+  "structured_event_ratio": 0.9236,
+  "slot_counts": {
+    "place": 85,
+    "reminder": 54,
+    "source": 123,
+    "time": 27,
+    "tool": 219,
+    "unknown": 42
+  },
+  "artifact": "pred_events_structured.jsonl"
+}

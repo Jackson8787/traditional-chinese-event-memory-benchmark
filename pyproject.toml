@@ -1,0 +1,17 @@
+[project]
+name = "zh-event-memory"
+version = "0.1.0"
+description = "Event-centric retrieval and conflict-aware update prototype for Traditional Chinese long-term conversational memory."
+requires-python = ">=3.11"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

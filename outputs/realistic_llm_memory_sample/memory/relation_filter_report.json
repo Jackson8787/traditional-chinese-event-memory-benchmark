@@ -1,0 +1,18 @@
+{
+  "input_event_count": 550,
+  "input_relation_count": 1723,
+  "kept_relation_count": 568,
+  "removed_relation_count": 1155,
+  "kept_by_relation": {
+    "supersedes": 15,
+    "supplements": 553
+  },
+  "removed_by_relation": {
+    "conflicts_without_resolution": 44,
+    "corrects": 62,
+    "supersedes": 240,
+    "supplements": 809
+  },
+  "filter_version": "slot_aware_conservative_v2",
+  "max_shared_entity_frequency_for_supplement": 30
+}

@@ -1,0 +1,568 @@
+{"new_event_id": "pred_e_0016", "old_event_id": "pred_e_0011", "relation": "supplements", "reason": "新事件與舊事件同為補充實驗紀錄，但加入的是不同細節，彼此不衝突且互相補充。", "evidence_turn_ids": ["u01_s02_u07"]}
+{"new_event_id": "pred_e_0017", "old_event_id": "pred_e_0012", "relation": "supplements", "reason": "兩者都是要把不同項目加入同一份實驗紀錄表格，沒有互相否定，屬於補充資訊。", "evidence_turn_ids": ["u01_s02_u08"]}
+{"new_event_id": "pred_e_0021", "old_event_id": "pred_e_0007", "relation": "supplements", "reason": "新事件重述並補充舊事件中的一部分擔憂，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s03_u03"]}
+{"new_event_id": "pred_e_0022", "old_event_id": "pred_e_0002", "relation": "supplements", "reason": "新事件是在同一主題下補充要記錄的內容，未推翻舊事件的做法。", "evidence_turn_ids": ["u01_s03_u03"]}
+{"new_event_id": "pred_e_0023", "old_event_id": "pred_e_0004", "relation": "supplements", "reason": "新事件只是重述並保留對 Notion 表格的偏好，未推翻或修正舊事件中對 Google 試算表的看法。", "evidence_turn_ids": ["u01_s03_u04"]}
+{"new_event_id": "pred_e_0030", "old_event_id": "pred_e_0019", "relation": "supplements", "reason": "新事件只是重述舊事件內容，未提供新的修正或矛盾資訊。", "evidence_turn_ids": ["u01_s04_u01"]}
+{"new_event_id": "pred_e_0031", "old_event_id": "pred_e_0016", "relation": "supplements", "reason": "新事件延續並補充舊事件中「已補上實驗紀錄細節」的內容，但沒有否定或取代舊事件提到的組員阿哲那段。", "evidence_turn_ids": ["u01_s04_u02"]}
+{"new_event_id": "pred_e_0032", "old_event_id": "pred_e_0002", "relation": "supplements", "reason": "新事件是在原本關注校內場地借用系統的基礎上，補充了要放進表格以利實驗紀錄追蹤，未否定舊計畫。", "evidence_turn_ids": ["u01_s04_u03"]}
+{"new_event_id": "pred_e_0036", "old_event_id": "pred_e_0011", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上補充不同細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s04_u06"]}
+{"new_event_id": "pred_e_0036", "old_event_id": "pred_e_0016", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上補充已補上的內容，新增了 Notion 表格那段，未推翻舊事件。", "evidence_turn_ids": ["u01_s04_u06"]}
+{"new_event_id": "pred_e_0036", "old_event_id": "pred_e_0031", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充，增加了「特別是 Notion 表格那段」的細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s04_u06"]}
+{"new_event_id": "pred_e_0037", "old_event_id": "pred_e_0027", "relation": "supplements", "reason": "新事件只是補充阿哲被放入表格以利追蹤實驗紀錄，未推翻原本將阿哲記在旁邊一起確認安排的想法。", "evidence_turn_ids": ["u01_s04_u07"]}
+{"new_event_id": "pred_e_0037", "old_event_id": "pred_e_0032", "relation": "supplements", "reason": "兩者都是為了讓實驗紀錄好追而把不同項目放進表格，新增的是另一個內容，屬於補充而非取代或矛盾。", "evidence_turn_ids": ["u01_s04_u07"]}
+{"new_event_id": "pred_e_0039", "old_event_id": "pred_e_0008", "relation": "supplements", "reason": "新事件是在補充另一項偏好：備份方式先限制在筆電，未推翻原本以 Google 試算表整理的設定。", "evidence_turn_ids": ["u01_s05_u01"]}
+{"new_event_id": "pred_e_0041", "old_event_id": "pred_e_0023", "relation": "supplements", "reason": "新事件延續偏好用 Notion 表格整理，並補充了不喜歡 Google 試算表的原因，未使舊事件失效。", "evidence_turn_ids": ["u01_s05_u03"]}
+{"new_event_id": "pred_e_0042", "old_event_id": "pred_e_0002", "relation": "supplements", "reason": "新事件補充了處理校內場地借用系統資訊時的具體順序，未推翻舊事件的做法。", "evidence_turn_ids": ["u01_s05_u03"]}
+{"new_event_id": "pred_e_0042", "old_event_id": "pred_e_0022", "relation": "supplements", "reason": "新事件只是補充說明先從校內場地借用系統那段開始，未推翻舊事件要記下相關流程資訊的計畫。", "evidence_turn_ids": ["u01_s05_u03"]}
+{"new_event_id": "pred_e_0042", "old_event_id": "pred_e_0032", "relation": "supplements", "reason": "新事件補充了實作順序，說明這次先從校內場地借用系統那段開始補，未推翻舊事件要放進表格的規劃。", "evidence_turn_ids": ["u01_s05_u03"]}
+{"new_event_id": "pred_e_0043", "old_event_id": "pred_e_0026", "relation": "supplements", "reason": "新事件補充了意識到這件事的時間脈絡，但核心內容與舊事件一致，沒有取代或修正舊資訊。", "evidence_turn_ids": ["u01_s05_u04"]}
+{"new_event_id": "pred_e_0044", "old_event_id": "pred_e_0006", "relation": "supplements", "reason": "新事件延續了先抄到清單的做法，但把資訊來源從阿哲補充為 Google 試算表，屬於新增細節而非取代原意。", "evidence_turn_ids": ["u01_s05_u05"]}
+{"new_event_id": "pred_e_0046", "old_event_id": "pred_e_0023", "relation": "supplements", "reason": "新事件延續舊有偏好，並補充了偏好 Notion 表格的原因，未推翻原資訊。", "evidence_turn_ids": ["u01_s05_u07"]}
+{"new_event_id": "pred_e_0046", "old_event_id": "pred_e_0041", "relation": "supplements", "reason": "新事件與舊事件主題相同，只是補充偏好理由，沒有改變原本內容。", "evidence_turn_ids": ["u01_s05_u07"]}
+{"new_event_id": "pred_e_0047", "old_event_id": "pred_e_0027", "relation": "supplements", "reason": "新事件只是補充說明先從組員阿哲那段開始，未推翻舊事件中把阿哲記在旁邊一起確認安排的計畫。", "evidence_turn_ids": ["u01_s05_u07"]}
+{"new_event_id": "pred_e_0047", "old_event_id": "pred_e_0037", "relation": "supplements", "reason": "新事件補充了先從組員阿哲那段開始處理，未推翻原本把阿哲放進表格以利追蹤的規劃。", "evidence_turn_ids": ["u01_s05_u07"]}
+{"new_event_id": "pred_e_0048", "old_event_id": "pred_e_0026", "relation": "supplements", "reason": "新事件只是補充這個想法是今天聊到校園專題安排時才發現，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s05_u08"]}
+{"new_event_id": "pred_e_0049", "old_event_id": "pred_e_0039", "relation": "supplements", "reason": "新事件延續相同背景但改為偏好先處理合作對象相關事項，屬於補充不同面向的偏好，未否定舊事件。", "evidence_turn_ids": ["u01_s06_u01"]}
+{"new_event_id": "pred_e_0053", "old_event_id": "pred_e_0011", "relation": "supplements", "reason": "新事件延續同一主題的實驗紀錄補充，但補上的細節不同，屬於補充而非取代或矛盾。", "evidence_turn_ids": ["u01_s06_u05"]}
+{"new_event_id": "pred_e_0053", "old_event_id": "pred_e_0016", "relation": "supplements", "reason": "新事件延續同一件實驗紀錄的補充，但只是新增了另一段漏掉的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s06_u05"]}
+{"new_event_id": "pred_e_0053", "old_event_id": "pred_e_0031", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充具體內容，增加了 Google 試算表那段，並未推翻舊資訊。", "evidence_turn_ids": ["u01_s06_u05"]}
+{"new_event_id": "pred_e_0053", "old_event_id": "pred_e_0036", "relation": "supplements", "reason": "新事件是在相同主題的實驗紀錄補充內容，但補的是 Google 試算表那段，未否定舊事件提到的 Notion 表格。", "evidence_turn_ids": ["u01_s06_u05"]}
+{"new_event_id": "pred_e_0054", "old_event_id": "pred_e_0050", "relation": "supplements", "reason": "新事件是在原本加入討論室的計畫上，再補充要把 Notion 表格也納入，並未推翻舊計畫。", "evidence_turn_ids": ["u01_s06_u06"]}
+{"new_event_id": "pred_e_0055", "old_event_id": "pred_e_0013", "relation": "supplements", "reason": "新事件只是重述並稍微補充舊事件，內容方向相同，沒有取代或修正舊事件。", "evidence_turn_ids": ["u01_s06_u07"]}
+{"new_event_id": "pred_e_0055", "old_event_id": "pred_e_0038", "relation": "supplements", "reason": "新事件與舊事件主題相同且內容相近，只是補充了「相關部分」的說法，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s06_u07"]}
+{"new_event_id": "pred_e_0055", "old_event_id": "pred_e_0051", "relation": "supplements", "reason": "新事件延續詢問阿哲與下週五前穩定化的同一規劃，只是把目標表述為相關部分整理成穩定版本，屬於補充說明而非取代或矛盾。", "evidence_turn_ids": ["u01_s06_u07"]}
+{"new_event_id": "pred_e_0058", "old_event_id": "pred_e_0030", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是補充了相同狀態的描述，沒有使舊事件失效。", "evidence_turn_ids": ["u01_s07_u01"]}
+{"new_event_id": "pred_e_0060", "old_event_id": "pred_e_0046", "relation": "supplements", "reason": "新事件補充了使用者對 Google 試算表較不偏好的理由，與舊事件一致且不互相推翻。", "evidence_turn_ids": ["u01_s07_u02"]}
+{"new_event_id": "pred_e_0061", "old_event_id": "pred_e_0050", "relation": "supplements", "reason": "新事件只是補充說明先從資工系館討論室那段開始，未推翻舊事件要把它加入表格的計畫。", "evidence_turn_ids": ["u01_s07_u02"]}
+{"new_event_id": "pred_e_0067", "old_event_id": "pred_e_0054", "relation": "supplements", "reason": "新事件只是補充先從 Notion 表格那段開始，沒有推翻舊事件要加入表格以追蹤實驗紀錄的計畫。", "evidence_turn_ids": ["u01_s07_u06"]}
+{"new_event_id": "pred_e_0071", "old_event_id": "pred_e_0050", "relation": "supplements", "reason": "新事件只是補充先詢問組員阿哲並確認資工系館討論室版本，未推翻原本要加入表格以追蹤實驗紀錄的計畫。", "evidence_turn_ids": ["u01_s08_u02"]}
+{"new_event_id": "pred_e_0071", "old_event_id": "pred_e_0061", "relation": "supplements", "reason": "新事件是在原本先補資工系館討論室的計畫上，補充了先詢問組員阿哲與確認穩定版本的細節，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s08_u02"]}
+{"new_event_id": "pred_e_0073", "old_event_id": "pred_e_0062", "relation": "supplements", "reason": "新事件補充了使用者對校內場地借用系統的看法，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s08_u03"]}
+{"new_event_id": "pred_e_0076", "old_event_id": "pred_e_0067", "relation": "supplements", "reason": "新事件是在原本先補 Notion 表格的計畫上，補充了先詢問組員阿哲與希望確認到穩定版本的細節，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s08_u06"]}
+{"new_event_id": "pred_e_0080", "old_event_id": "pred_e_0019", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅是較簡短的重述，沒有新增衝突或修正。", "evidence_turn_ids": ["u01_s09_u01"]}
+{"new_event_id": "pred_e_0080", "old_event_id": "pred_e_0058", "relation": "supplements", "reason": "新事件與舊事件內容相同，未推翻舊資訊，只是再次提及相同狀態。", "evidence_turn_ids": ["u01_s09_u01"]}
+{"new_event_id": "pred_e_0082", "old_event_id": "pred_e_0032", "relation": "supplements", "reason": "新事件是補充如何處理校內場地借用系統資訊的細節，沒有推翻舊事件中將其放進表格的規劃。", "evidence_turn_ids": ["u01_s09_u03"]}
+{"new_event_id": "pred_e_0082", "old_event_id": "pred_e_0042", "relation": "supplements", "reason": "新事件是在原本先補校內場地借用系統的計畫上，補充了若資訊更新會先抄到清單的做法，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s09_u03"]}
+{"new_event_id": "pred_e_0082", "old_event_id": "pred_e_0044", "relation": "supplements", "reason": "新事件是相同做法的另一個情境，補充了校內場地借用系統的更新處理，未使舊事件失效。", "evidence_turn_ids": ["u01_s09_u03"]}
+{"new_event_id": "pred_e_0085", "old_event_id": "pred_e_0060", "relation": "supplements", "reason": "新事件補充了對 Google 試算表的具體感受，與舊事件的較不偏好一致，未使舊資訊失效。", "evidence_turn_ids": ["u01_s09_u05"]}
+{"new_event_id": "pred_e_0087", "old_event_id": "pred_e_0044", "relation": "supplements", "reason": "新事件將資訊來源補充為組員阿哲那邊，與舊事件的整理方式相同，未使舊事件失效。", "evidence_turn_ids": ["u01_s09_u07"]}
+{"new_event_id": "pred_e_0087", "old_event_id": "pred_e_0071", "relation": "supplements", "reason": "新事件補充了阿哲資訊更新後的處理方式，與舊事件先詢問阿哲確認內容的計畫相互補充，未取代也未矛盾。", "evidence_turn_ids": ["u01_s09_u07"]}
+{"new_event_id": "pred_e_0087", "old_event_id": "pred_e_0076", "relation": "supplements", "reason": "新事件補充了阿哲資訊更新後的後續處理方式，與舊事件先詢問並確認 Notion 表格穩定版本的規劃相容。", "evidence_turn_ids": ["u01_s09_u07"]}
+{"new_event_id": "pred_e_0087", "old_event_id": "pred_e_0082", "relation": "supplements", "reason": "新事件沿用相同作法但把資訊來源補充為組員阿哲，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s09_u07"]}
+{"new_event_id": "pred_e_0088", "old_event_id": "pred_e_0083", "relation": "supplements", "reason": "新事件是在同一校園專題時間限制的基礎上，補充了需要同時考慮的其他面向，未否定舊資訊。", "evidence_turn_ids": ["u01_s09_u08"]}
+{"new_event_id": "pred_e_0092", "old_event_id": "pred_e_0031", "relation": "supplements", "reason": "新事件補充了使用者之後的記錄偏好，未否定舊事件中已補上實驗紀錄細節的事實。", "evidence_turn_ids": ["u01_s10_u02"]}
+{"new_event_id": "pred_e_0096", "old_event_id": "pred_e_0055", "relation": "supplements", "reason": "新事件延續相同計畫，並補充具體詢問對象與內容是 Google 試算表。", "evidence_turn_ids": ["u01_s10_u05"]}
+{"new_event_id": "pred_e_0098", "old_event_id": "pred_e_0036", "relation": "supplements", "reason": "新事件補充了使用者對 Notion 表格細節記憶方式的態度，未否定舊事件已補上細節的事實。", "evidence_turn_ids": ["u01_s10_u06"]}
+{"new_event_id": "pred_e_0099", "old_event_id": "pred_e_0053", "relation": "supplements", "reason": "新事件是在補充實驗紀錄時加入另一段漏掉的細節，與舊事件內容相容且不使其失效。", "evidence_turn_ids": ["u01_s10_u07"]}
+{"new_event_id": "pred_e_0099", "old_event_id": "pred_e_0074", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充已補上的內容，並新增「包含組員阿哲那段」的細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s10_u07"]}
+{"new_event_id": "pred_e_0099", "old_event_id": "pred_e_0078", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充，增加了「包含組員阿哲那段」的細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s10_u07"]}
+{"new_event_id": "pred_e_0099", "old_event_id": "pred_e_0093", "relation": "supplements", "reason": "新事件與舊事件同為補上實驗紀錄細節，但新增的是另一段內容，屬於補充而非取代或修正。", "evidence_turn_ids": ["u01_s10_u07"]}
+{"new_event_id": "pred_e_0100", "old_event_id": "pred_e_0095", "relation": "supplements", "reason": "兩則都是在補充要納入表格的內容，主題相同但新增的是不同項目，未見舊內容失效。", "evidence_turn_ids": ["u01_s10_u08"]}
+{"new_event_id": "pred_e_0101", "old_event_id": "pred_e_0071", "relation": "supplements", "reason": "新事件是在補充對資工系館討論室資訊更新後的處理方式，沒有推翻舊事件中先問阿哲確認版本的計畫。", "evidence_turn_ids": ["u01_s11_u02"]}
+{"new_event_id": "pred_e_0101", "old_event_id": "pred_e_0082", "relation": "supplements", "reason": "新事件延續相同做法，但把對象改成資工系館討論室，屬於補充不同來源的資訊。", "evidence_turn_ids": ["u01_s11_u02"]}
+{"new_event_id": "pred_e_0101", "old_event_id": "pred_e_0087", "relation": "supplements", "reason": "新事件沿用相同做法，但更新來源從阿哲改成資工系館討論室，屬於補充不同資訊來源。", "evidence_turn_ids": ["u01_s11_u02"]}
+{"new_event_id": "pred_e_0103", "old_event_id": "pred_e_0023", "relation": "supplements", "reason": "新事件延續舊有對 Notion 表格的偏好，並補充了不喜歡 Google 試算表的原因，沒有推翻舊資訊。", "evidence_turn_ids": ["u01_s11_u04"]}
+{"new_event_id": "pred_e_0103", "old_event_id": "pred_e_0046", "relation": "supplements", "reason": "新事件只是重述並補強舊事件的偏好內容，沒有推翻或修正舊事件。", "evidence_turn_ids": ["u01_s11_u04"]}
+{"new_event_id": "pred_e_0103", "old_event_id": "pred_e_0060", "relation": "supplements", "reason": "新事件補充了使用者更偏好 Notion 表格的資訊，並延續原本對 Google 試算表較不偏好的看法。", "evidence_turn_ids": ["u01_s11_u04"]}
+{"new_event_id": "pred_e_0106", "old_event_id": "pred_e_0083", "relation": "supplements", "reason": "新事件延續同一個校園專題脈絡，補充了需要一起確認安排的人是阿哲，未推翻舊事件中下週五需提前確認的限制。", "evidence_turn_ids": ["u01_s11_u07"]}
+{"new_event_id": "pred_e_0107", "old_event_id": "pred_e_0041", "relation": "supplements", "reason": "新事件與舊事件內容一致，僅是重述相同偏好，未提供新的修正或衝突資訊。", "evidence_turn_ids": ["u01_s11_u08"]}
+{"new_event_id": "pred_e_0107", "old_event_id": "pred_e_0046", "relation": "supplements", "reason": "新事件與舊事件內容一致，僅是重新表述並補強偏好，沒有取代或修正原資訊。", "evidence_turn_ids": ["u01_s11_u08"]}
+{"new_event_id": "pred_e_0107", "old_event_id": "pred_e_0060", "relation": "supplements", "reason": "新事件在保留不喜歡 Google 試算表的同時，補充了更偏好用 Notion 表格整理。", "evidence_turn_ids": ["u01_s11_u08"]}
+{"new_event_id": "pred_e_0111", "old_event_id": "pred_e_0082", "relation": "supplements", "reason": "新事件是把校內場地借用系統納入表格的做法，與舊事件將相關資訊抄到清單裡不同但不互相否定，屬於補充。", "evidence_turn_ids": ["u01_s12_u03"]}
+{"new_event_id": "pred_e_0111", "old_event_id": "pred_e_0095", "relation": "supplements", "reason": "新事件是在同一主題下補充另一個應加入表格的項目，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s12_u03"]}
+{"new_event_id": "pred_e_0113", "old_event_id": "pred_e_0109", "relation": "supplements", "reason": "新事件延續同一偏好，僅補充了新的細節情境（Google 試算表），不使舊事件失效。", "evidence_turn_ids": ["u01_s12_u05"]}
+{"new_event_id": "pred_e_0114", "old_event_id": "pred_e_0078", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充更具體的內容，指出補上的細節特別是 Notion 表格那段，未與舊事件衝突。", "evidence_turn_ids": ["u01_s12_u06"]}
+{"new_event_id": "pred_e_0114", "old_event_id": "pred_e_0099", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄中補充另一段細節，與舊事件不衝突且屬於追加內容。", "evidence_turn_ids": ["u01_s12_u06"]}
+{"new_event_id": "pred_e_0114", "old_event_id": "pred_e_0110", "relation": "supplements", "reason": "新事件與舊事件同為補上實驗紀錄細節，但提到的是不同段落，屬於補充而非取代或衝突。", "evidence_turn_ids": ["u01_s12_u06"]}
+{"new_event_id": "pred_e_0115", "old_event_id": "pred_e_0095", "relation": "supplements", "reason": "新事件是在同一主題下補充表格內容，從加入下週五改為加入組員阿哲，未使舊事件失效。", "evidence_turn_ids": ["u01_s12_u07"]}
+{"new_event_id": "pred_e_0115", "old_event_id": "pred_e_0100", "relation": "supplements", "reason": "新事件是針對同一張表格再補充新增要納入的項目，並未推翻舊事件。", "evidence_turn_ids": ["u01_s12_u07"]}
+{"new_event_id": "pred_e_0115", "old_event_id": "pred_e_0111", "relation": "supplements", "reason": "新事件同樣在討論實驗紀錄的表格內容，但補充了要加入組員阿哲，並未否定舊事件中的校內場地借用系統。", "evidence_turn_ids": ["u01_s12_u07"]}
+{"new_event_id": "pred_e_0116", "old_event_id": "pred_e_0112", "relation": "supplements", "reason": "新事件在保留原本與阿哲、下週五前確認穩定版本的安排下，補充了具體主題為校園專題。", "evidence_turn_ids": ["u01_s12_u08"]}
+{"new_event_id": "pred_e_0117", "old_event_id": "pred_e_0101", "relation": "supplements", "reason": "新事件只是把相同做法套用到不同地點，補充了另一個情境，未使舊事件失效。", "evidence_turn_ids": ["u01_s13_u01"]}
+{"new_event_id": "pred_e_0117", "old_event_id": "pred_e_0105", "relation": "supplements", "reason": "新事件只是把資訊來源從 Notion 表格補充成總圖三樓，原本把校園專題相關內容抄到清單的計畫仍可成立。", "evidence_turn_ids": ["u01_s13_u01"]}
+{"new_event_id": "pred_e_0118", "old_event_id": "pred_e_0065", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是較簡短，沒有新增衝突或取代關係。", "evidence_turn_ids": ["u01_s13_u02"]}
+{"new_event_id": "pred_e_0119", "old_event_id": "pred_e_0117", "relation": "supplements", "reason": "新事件是在補充使用者要記錄的資訊來源與方式，和舊事件同屬總圖三樓相關的整理計畫，並未否定舊計畫。", "evidence_turn_ids": ["u01_s13_u02"]}
+{"new_event_id": "pred_e_0120", "old_event_id": "pred_e_0103", "relation": "supplements", "reason": "新事件與舊事件內容一致，只是用不同措辭重述偏好，未形成衝突也未推翻舊資訊。", "evidence_turn_ids": ["u01_s13_u03"]}
+{"new_event_id": "pred_e_0120", "old_event_id": "pred_e_0107", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是重述同一偏好，沒有修正或取代關係。", "evidence_turn_ids": ["u01_s13_u03"]}
+{"new_event_id": "pred_e_0121", "old_event_id": "pred_e_0032", "relation": "supplements", "reason": "新事件只是補充先從校內場地借用系統那段開始，未否定舊事件要放進表格的規劃。", "evidence_turn_ids": ["u01_s13_u03"]}
+{"new_event_id": "pred_e_0121", "old_event_id": "pred_e_0082", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充同一主題的執行內容，沒有推翻舊計畫。", "evidence_turn_ids": ["u01_s13_u03"]}
+{"new_event_id": "pred_e_0121", "old_event_id": "pred_e_0111", "relation": "supplements", "reason": "新事件只是補充先從校內場地借用系統那段開始處理，未否定舊事件要放進表格的規劃。", "evidence_turn_ids": ["u01_s13_u03"]}
+{"new_event_id": "pred_e_0123", "old_event_id": "pred_e_0101", "relation": "supplements", "reason": "新事件只是把資訊來源改成 Google 試算表，補充了同一類行動計畫，未使舊事件失效。", "evidence_turn_ids": ["u01_s13_u05"]}
+{"new_event_id": "pred_e_0123", "old_event_id": "pred_e_0117", "relation": "supplements", "reason": "新事件延續相同作法，但把資訊來源補充為 Google 試算表，未使舊事件失效。", "evidence_turn_ids": ["u01_s13_u05"]}
+{"new_event_id": "pred_e_0124", "old_event_id": "pred_e_0065", "relation": "supplements", "reason": "新事件與舊事件內容相同但更精簡，未提供新的矛盾或修正資訊。", "evidence_turn_ids": ["u01_s13_u06"]}
+{"new_event_id": "pred_e_0125", "old_event_id": "pred_e_0105", "relation": "supplements", "reason": "新事件是在 Notion 表格旁邊補充要記錄的內容，與舊事件保留將相關資訊抄到清單裡的規劃不衝突。", "evidence_turn_ids": ["u01_s13_u06"]}
+{"new_event_id": "pred_e_0127", "old_event_id": "pred_e_0027", "relation": "supplements", "reason": "新事件只是補充說明先從組員阿哲那段開始，未推翻舊事件中將阿哲記為一起確認安排的想法。", "evidence_turn_ids": ["u01_s13_u07"]}
+{"new_event_id": "pred_e_0127", "old_event_id": "pred_e_0037", "relation": "supplements", "reason": "新事件只是補充先從組員阿哲那段開始處理，未推翻原先要把阿哲放進表格的規劃。", "evidence_turn_ids": ["u01_s13_u07"]}
+{"new_event_id": "pred_e_0127", "old_event_id": "pred_e_0115", "relation": "supplements", "reason": "新事件補充了先從組員阿哲那段開始處理的細節，未推翻舊事件要把阿哲放進表格的規劃。", "evidence_turn_ids": ["u01_s13_u07"]}
+{"new_event_id": "pred_e_0129", "old_event_id": "pred_e_0093", "relation": "supplements", "reason": "新事件是在原本實驗紀錄補細節的基礎上，另外補上了總圖三樓那段，屬於補充而非取代。", "evidence_turn_ids": ["u01_s14_u01"]}
+{"new_event_id": "pred_e_0129", "old_event_id": "pred_e_0099", "relation": "supplements", "reason": "兩者都是在說使用者補上實驗紀錄的漏失細節，但新事件只是新增了另一段內容，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s14_u01"]}
+{"new_event_id": "pred_e_0129", "old_event_id": "pred_e_0110", "relation": "supplements", "reason": "新事件與舊事件同為補充實驗紀錄，但新增的是另一處細節，屬於補充而非取代或修正。", "evidence_turn_ids": ["u01_s14_u01"]}
+{"new_event_id": "pred_e_0129", "old_event_id": "pred_e_0114", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上再補充另一處細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s14_u01"]}
+{"new_event_id": "pred_e_0130", "old_event_id": "pred_e_0100", "relation": "supplements", "reason": "新事件延續相同目的但新增了不同要納入表格的項目，屬於補充而非取代或矛盾。", "evidence_turn_ids": ["u01_s14_u02"]}
+{"new_event_id": "pred_e_0130", "old_event_id": "pred_e_0101", "relation": "supplements", "reason": "新事件是在補充如何處理資工系館討論室相關資訊，增加把它放進表格的做法，並未推翻舊事件要抄到清單的計畫。", "evidence_turn_ids": ["u01_s14_u02"]}
+{"new_event_id": "pred_e_0130", "old_event_id": "pred_e_0111", "relation": "supplements", "reason": "新事件是在同一個表格規劃下補充新增「資工系館討論室」，不會使舊事件中的「校內場地借用系統」失效。", "evidence_turn_ids": ["u01_s14_u02"]}
+{"new_event_id": "pred_e_0130", "old_event_id": "pred_e_0115", "relation": "supplements", "reason": "新事件是在同一主題下補充另一個要放入表格的項目，沒有否定或取代舊事件內容。", "evidence_turn_ids": ["u01_s14_u02"]}
+{"new_event_id": "pred_e_0131", "old_event_id": "pred_e_0111", "relation": "supplements", "reason": "新事件是在補充對校內場地借用系統整理進度與下一步確認對象，未推翻舊事件把它放進表格的規劃。", "evidence_turn_ids": ["u01_s14_u03"]}
+{"new_event_id": "pred_e_0131", "old_event_id": "pred_e_0121", "relation": "supplements", "reason": "新事件是在原本先從校內場地借用系統開始補的計畫上，補充了先詢問組員阿哲並確認下週五前能否整理到穩定版本的細節，未推翻舊計畫。", "evidence_turn_ids": ["u01_s14_u03"]}
+{"new_event_id": "pred_e_0131", "old_event_id": "pred_e_0127", "relation": "supplements", "reason": "新事件補充了與組員阿哲相關的更具體計畫內容，未推翻舊事件。", "evidence_turn_ids": ["u01_s14_u03"]}
+{"new_event_id": "pred_e_0132", "old_event_id": "pred_e_0113", "relation": "supplements", "reason": "新事件延續不靠腦袋記實驗紀錄的偏好，並補充特別容易遺漏的細節類型。", "evidence_turn_ids": ["u01_s14_u04"]}
+{"new_event_id": "pred_e_0133", "old_event_id": "pred_e_0099", "relation": "supplements", "reason": "新事件是在相同主題的實驗紀錄中新增另一段已補上的細節，與舊事件不衝突且屬於補充資訊。", "evidence_turn_ids": ["u01_s14_u05"]}
+{"new_event_id": "pred_e_0133", "old_event_id": "pred_e_0110", "relation": "supplements", "reason": "新事件延續同一份實驗紀錄補充了另一段細節，未否定舊事件內容。", "evidence_turn_ids": ["u01_s14_u05"]}
+{"new_event_id": "pred_e_0133", "old_event_id": "pred_e_0114", "relation": "supplements", "reason": "新事件是在補充已完成的實驗紀錄修訂內容，且新增了 Google 試算表那段，未推翻舊事件的 Notion 表格資訊。", "evidence_turn_ids": ["u01_s14_u05"]}
+{"new_event_id": "pred_e_0133", "old_event_id": "pred_e_0129", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上新增另一處補充細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s14_u05"]}
+{"new_event_id": "pred_e_0134", "old_event_id": "pred_e_0111", "relation": "supplements", "reason": "新事件是同一目標下新增要納入的項目，沒有推翻舊事件，只是補充另一個表格內容。", "evidence_turn_ids": ["u01_s14_u06"]}
+{"new_event_id": "pred_e_0134", "old_event_id": "pred_e_0130", "relation": "supplements", "reason": "兩則都是在提出要把不同項目納入表格以利追蹤實驗紀錄，new_event 只是新增了 Notion 表格，未否定舊事件中的資工系館討論室。", "evidence_turn_ids": ["u01_s14_u06"]}
+{"new_event_id": "pred_e_0135", "old_event_id": "pred_e_0115", "relation": "supplements", "reason": "新事件補充了使用者對組員阿哲相關安排的後續動作，未推翻舊事件中要把阿哲納入表格的計畫。", "evidence_turn_ids": ["u01_s14_u07"]}
+{"new_event_id": "pred_e_0135", "old_event_id": "pred_e_0127", "relation": "supplements", "reason": "新事件補充了先處理組員阿哲部分的具體下一步與時限，未推翻舊事件。", "evidence_turn_ids": ["u01_s14_u07"]}
+{"new_event_id": "pred_e_0136", "old_event_id": "pred_e_0113", "relation": "supplements", "reason": "新事件延續不只靠腦袋記實驗紀錄的偏好，並補充該情境也包含校園專題細節。", "evidence_turn_ids": ["u01_s14_u08"]}
+{"new_event_id": "pred_e_0136", "old_event_id": "pred_e_0132", "relation": "supplements", "reason": "新事件延續不只靠腦袋記實驗紀錄的偏好，並補充了另一個細節例子「校園專題」，未推翻舊事件。", "evidence_turn_ids": ["u01_s14_u08"]}
+{"new_event_id": "pred_e_0140", "old_event_id": "pred_e_0120", "relation": "supplements", "reason": "新事件只是補充並重述對 Google 試算表的不偏好，沒有推翻舊事件中偏好 Notion 表格的內容。", "evidence_turn_ids": ["u01_s15_u02"]}
+{"new_event_id": "pred_e_0140", "old_event_id": "pred_e_0126", "relation": "supplements", "reason": "新事件重申使用者不偏好 Google 試算表，與舊事件內容一致且未推翻原本對 Notion 表格的偏好。", "evidence_turn_ids": ["u01_s15_u02"]}
+{"new_event_id": "pred_e_0141", "old_event_id": "pred_e_0071", "relation": "supplements", "reason": "新事件只是補充說明先從資工系館討論室那段開始，沒有推翻舊事件要先問阿哲確認的計畫。", "evidence_turn_ids": ["u01_s15_u02"]}
+{"new_event_id": "pred_e_0141", "old_event_id": "pred_e_0101", "relation": "supplements", "reason": "新事件補充了先從資工系館討論室那段開始處理，與舊事件要先抄校園專題相關資訊到清單的計畫相容。", "evidence_turn_ids": ["u01_s15_u02"]}
+{"new_event_id": "pred_e_0141", "old_event_id": "pred_e_0130", "relation": "supplements", "reason": "新事件補充了先從資工系館討論室開始處理的進度，未推翻舊事件要把它放進表格的規劃。", "evidence_turn_ids": ["u01_s15_u02"]}
+{"new_event_id": "pred_e_0142", "old_event_id": "pred_e_0062", "relation": "supplements", "reason": "新事件只是補充另一個時間點再次談到同一主題，未取代或修正舊事件。", "evidence_turn_ids": ["u01_s15_u03"]}
+{"new_event_id": "pred_e_0142", "old_event_id": "pred_e_0073", "relation": "supplements", "reason": "新事件只是補充提到校內場地借用系統的安排，沒有改動或否定舊事件對於該系統細節記錄重要性的看法。", "evidence_turn_ids": ["u01_s15_u03"]}
+{"new_event_id": "pred_e_0144", "old_event_id": "pred_e_0068", "relation": "supplements", "reason": "新事件是在相同做法上補充了時間條件與資訊來源，未推翻舊事件。", "evidence_turn_ids": ["u01_s15_u04"]}
+{"new_event_id": "pred_e_0147", "old_event_id": "pred_e_0059", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅是再次提及偏好，未見修正或取代關係。", "evidence_turn_ids": ["u01_s15_u06"]}
+{"new_event_id": "pred_e_0147", "old_event_id": "pred_e_0139", "relation": "supplements", "reason": "新事件與舊事件主題相同且只是表述更精簡，未改變原本偏好。", "evidence_turn_ids": ["u01_s15_u06"]}
+{"new_event_id": "pred_e_0148", "old_event_id": "pred_e_0126", "relation": "supplements", "reason": "新事件補充並重述使用者不偏好 Google 試算表，與舊事件關於 Notion 表格偏好的資訊不衝突。", "evidence_turn_ids": ["u01_s15_u06"]}
+{"new_event_id": "pred_e_0149", "old_event_id": "pred_e_0117", "relation": "supplements", "reason": "新事件是把總圖三樓納入實驗紀錄表格，和舊事件記錄校園專題相關資訊到清單的做法不同但可並存，屬於補充。", "evidence_turn_ids": ["u01_s16_u01"]}
+{"new_event_id": "pred_e_0149", "old_event_id": "pred_e_0119", "relation": "supplements", "reason": "新事件是在補充把總圖三樓納入實驗紀錄表格，未推翻舊事件提到的 grounding 入口安排。", "evidence_turn_ids": ["u01_s16_u01"]}
+{"new_event_id": "pred_e_0149", "old_event_id": "pred_e_0134", "relation": "supplements", "reason": "新事件是在原本「讓實驗紀錄比較好追」的表格規劃上，補充加入「總圖三樓」這個內容，未否定舊事件。", "evidence_turn_ids": ["u01_s16_u01"]}
+{"new_event_id": "pred_e_0150", "old_event_id": "pred_e_0112", "relation": "supplements", "reason": "新事件延續先問阿哲並確認到穩定版本的計畫，但補充了具體範圍是資工系館討論室部分，未推翻舊事件。", "evidence_turn_ids": ["u01_s16_u02"]}
+{"new_event_id": "pred_e_0153", "old_event_id": "pred_e_0110", "relation": "supplements", "reason": "新事件延續原本補寫實驗紀錄的內容，並新增「下週五」那段細節，屬於補充而非取代。", "evidence_turn_ids": ["u01_s16_u04"]}
+{"new_event_id": "pred_e_0153", "old_event_id": "pred_e_0114", "relation": "supplements", "reason": "新事件是在既有實驗紀錄補寫內容，且補充了另一段細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s16_u04"]}
+{"new_event_id": "pred_e_0153", "old_event_id": "pred_e_0129", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上補充另一段漏掉的細節，並未否定舊事件內容。", "evidence_turn_ids": ["u01_s16_u04"]}
+{"new_event_id": "pred_e_0153", "old_event_id": "pred_e_0133", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上再補上另一處細節，與舊事件不衝突且可視為額外補充。", "evidence_turn_ids": ["u01_s16_u04"]}
+{"new_event_id": "pred_e_0154", "old_event_id": "pred_e_0134", "relation": "supplements", "reason": "新事件是在原本實驗紀錄表格規劃上補充加入 Google 試算表，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s16_u05"]}
+{"new_event_id": "pred_e_0154", "old_event_id": "pred_e_0149", "relation": "supplements", "reason": "新事件是在實驗紀錄表格中再加入 Google 試算表，與舊事件提到的總圖三樓不同且可並存，屬於補充資訊。", "evidence_turn_ids": ["u01_s16_u05"]}
+{"new_event_id": "pred_e_0155", "old_event_id": "pred_e_0112", "relation": "supplements", "reason": "新事件延續先問阿哲並在下週五前確認到穩定版本的計畫，且補充了具體是 Notion 表格部分。", "evidence_turn_ids": ["u01_s16_u06"]}
+{"new_event_id": "pred_e_0157", "old_event_id": "pred_e_0087", "relation": "supplements", "reason": "新事件只是補充使用者對阿哲資訊記憶方式的想法，沒有推翻舊事件中會整理校園專題相關資訊到清單的計畫。", "evidence_turn_ids": ["u01_s16_u07"]}
+{"new_event_id": "pred_e_0158", "old_event_id": "pred_e_0114", "relation": "supplements", "reason": "新事件同樣是在說已補上實驗紀錄細節，但補充的是不同段落（校園專題），未推翻舊事件中 Notion 表格那段的資訊。", "evidence_turn_ids": ["u01_s16_u08"]}
+{"new_event_id": "pred_e_0158", "old_event_id": "pred_e_0129", "relation": "supplements", "reason": "新事件延續同一份實驗紀錄的補充動作，但加入的是另一段內容，屬於補充而非取代或矛盾。", "evidence_turn_ids": ["u01_s16_u08"]}
+{"new_event_id": "pred_e_0158", "old_event_id": "pred_e_0133", "relation": "supplements", "reason": "新事件同樣是在補上實驗紀錄細節，但新增的是校園專題那段，未推翻舊事件中 Google 試算表的補充內容。", "evidence_turn_ids": ["u01_s16_u08"]}
+{"new_event_id": "pred_e_0158", "old_event_id": "pred_e_0153", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上再補充另一段漏掉的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s16_u08"]}
+{"new_event_id": "pred_e_0159", "old_event_id": "pred_e_0139", "relation": "supplements", "reason": "新事件補充了對 Notion 表格的偏好，並新增了不喜歡 Google 試算表的原因，未推翻舊事件。", "evidence_turn_ids": ["u01_s17_u01"]}
+{"new_event_id": "pred_e_0159", "old_event_id": "pred_e_0147", "relation": "supplements", "reason": "新事件在維持偏好 Notion 表格整理的同時，補充了不喜歡 Google 試算表的原因，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s17_u01"]}
+{"new_event_id": "pred_e_0160", "old_event_id": "pred_e_0029", "relation": "supplements", "reason": "新事件只是補充說明先從總圖三樓那段開始，未否定舊有通勤安排計畫。", "evidence_turn_ids": ["u01_s17_u01"]}
+{"new_event_id": "pred_e_0160", "old_event_id": "pred_e_0117", "relation": "supplements", "reason": "新事件補充了使用者先從總圖三樓那段開始處理的做法，與舊事件先抄校園專題相關資訊到清單的計畫相容。", "evidence_turn_ids": ["u01_s17_u01"]}
+{"new_event_id": "pred_e_0160", "old_event_id": "pred_e_0119", "relation": "supplements", "reason": "新事件只是補充說明先從總圖三樓那段開始處理，與舊事件要把相關公共資訊作為 grounding 入口記在旁邊的計畫相容，未取代或否定舊內容。", "evidence_turn_ids": ["u01_s17_u01"]}
+{"new_event_id": "pred_e_0160", "old_event_id": "pred_e_0149", "relation": "supplements", "reason": "新事件只是補充先從總圖三樓那段開始，與原本把總圖三樓放進實驗紀錄表格的計畫相容，不構成取代或衝突。", "evidence_turn_ids": ["u01_s17_u01"]}
+{"new_event_id": "pred_e_0161", "old_event_id": "pred_e_0128", "relation": "supplements", "reason": "新事件延續舊事件對校園專題的想法，並補充了當天聊到資工系館討論室的情境。", "evidence_turn_ids": ["u01_s17_u02"]}
+{"new_event_id": "pred_e_0162", "old_event_id": "pred_e_0117", "relation": "supplements", "reason": "新事件延續相同做法，但改成針對不同資訊來源，屬於補充而非取代。", "evidence_turn_ids": ["u01_s17_u03"]}
+{"new_event_id": "pred_e_0162", "old_event_id": "pred_e_0121", "relation": "supplements", "reason": "新事件是在原本補校內場地借用系統的計畫上，補充了若資訊更新時會先整理到清單的做法，未推翻舊事件。", "evidence_turn_ids": ["u01_s17_u03"]}
+{"new_event_id": "pred_e_0162", "old_event_id": "pred_e_0123", "relation": "supplements", "reason": "新事件是把資訊來源補充為校內場地借用系統，和舊事件的抄寫清單計畫相似但來源不同，未使舊事件失效。", "evidence_turn_ids": ["u01_s17_u03"]}
+{"new_event_id": "pred_e_0162", "old_event_id": "pred_e_0131", "relation": "supplements", "reason": "新事件補充了使用者對校內場地借用系統後續資訊更新時的處理方式，未否定原本先詢問阿哲確認穩定版本的計畫。", "evidence_turn_ids": ["u01_s17_u03"]}
+{"new_event_id": "pred_e_0163", "old_event_id": "pred_e_0106", "relation": "supplements", "reason": "新事件延續同一個校園專題時間壓縮的擔心，並補充需要提前確認的時間限制，未否定舊事件內容。", "evidence_turn_ids": ["u01_s17_u04"]}
+{"new_event_id": "pred_e_0164", "old_event_id": "pred_e_0139", "relation": "supplements", "reason": "新事件補充了對 Notion 表格整理的偏好，並新增不喜歡 Google 試算表的原因，未使舊事件失效。", "evidence_turn_ids": ["u01_s17_u05"]}
+{"new_event_id": "pred_e_0164", "old_event_id": "pred_e_0147", "relation": "supplements", "reason": "新事件在原本偏好用 Notion 表格整理之外，補充了不喜歡 Google 試算表的原因，未使舊資訊失效。", "evidence_turn_ids": ["u01_s17_u05"]}
+{"new_event_id": "pred_e_0166", "old_event_id": "pred_e_0122", "relation": "supplements", "reason": "新事件延伸了舊事件，加入了 Notion 表格安排的情境，但核心想法相同且不使舊事件失效。", "evidence_turn_ids": ["u01_s17_u06"]}
+{"new_event_id": "pred_e_0166", "old_event_id": "pred_e_0128", "relation": "supplements", "reason": "新事件在保留原本對校園專題的認知外，補充了當時是在聊 Notion 表格安排時提到的情境。", "evidence_turn_ids": ["u01_s17_u06"]}
+{"new_event_id": "pred_e_0166", "old_event_id": "pred_e_0161", "relation": "supplements", "reason": "新事件補充了使用者今天討論的安排主題改為 Notion 表格，且保留了相同的校園專題體會，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s17_u06"]}
+{"new_event_id": "pred_e_0167", "old_event_id": "pred_e_0117", "relation": "supplements", "reason": "新事件延續相同做法，但更新來源從總圖三樓改為組員阿哲，屬於補充而非取代。", "evidence_turn_ids": ["u01_s17_u07"]}
+{"new_event_id": "pred_e_0167", "old_event_id": "pred_e_0123", "relation": "supplements", "reason": "新事件只是把更新來源從 Google 試算表補充成組員阿哲，原本抄到自己清單的計畫仍然成立。", "evidence_turn_ids": ["u01_s17_u07"]}
+{"new_event_id": "pred_e_0168", "old_event_id": "pred_e_0163", "relation": "supplements", "reason": "新事件在相同主題下補充了校園專題需同時考慮的面向，沒有推翻舊事件的時間限制記錄。", "evidence_turn_ids": ["u01_s17_u08"]}
+{"new_event_id": "pred_e_0169", "old_event_id": "pred_e_0149", "relation": "supplements", "reason": "新事件是在原本總圖三樓計畫上補充了下一步要先詢問阿哲並確認下週五前整理成穩定版本，未推翻舊計畫。", "evidence_turn_ids": ["u01_s18_u01"]}
+{"new_event_id": "pred_e_0169", "old_event_id": "pred_e_0160", "relation": "supplements", "reason": "新事件延伸了總圖三樓的規劃，補充了要先詢問阿哲並確認下週五前能否整理成穩定版本，未推翻舊事件。", "evidence_turn_ids": ["u01_s18_u01"]}
+{"new_event_id": "pred_e_0169", "old_event_id": "pred_e_0167", "relation": "supplements", "reason": "新事件補充了使用者接下來要向阿哲確認整理進度的計畫，與舊事件先抄到清單的做法相互補充，沒有取代或矛盾。", "evidence_turn_ids": ["u01_s18_u01"]}
+{"new_event_id": "pred_e_0170", "old_event_id": "pred_e_0136", "relation": "supplements", "reason": "新事件延續原本不想只靠腦袋記實驗紀錄的偏好，並補充了更具體的情境細節。", "evidence_turn_ids": ["u01_s18_u02"]}
+{"new_event_id": "pred_e_0173", "old_event_id": "pred_e_0167", "relation": "supplements", "reason": "新事件補充了使用者接下來要向阿哲確認的具體事項，與原本把校園專題資訊抄進清單的計畫同主題但不互相取代。", "evidence_turn_ids": ["u01_s18_u05"]}
+{"new_event_id": "pred_e_0174", "old_event_id": "pred_e_0156", "relation": "supplements", "reason": "新事件是在原本不想只靠腦袋記實驗紀錄的基礎上，補充具體例子，未推翻舊事件。", "evidence_turn_ids": ["u01_s18_u06"]}
+{"new_event_id": "pred_e_0174", "old_event_id": "pred_e_0170", "relation": "supplements", "reason": "新事件延續相同偏好，將舊事件中「細節」的例子補充為 Notion 表格，未否定原內容。", "evidence_turn_ids": ["u01_s18_u06"]}
+{"new_event_id": "pred_e_0175", "old_event_id": "pred_e_0133", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充更多已補上的細節，主題相同但內容更具體，未推翻舊事件。", "evidence_turn_ids": ["u01_s18_u07"]}
+{"new_event_id": "pred_e_0175", "old_event_id": "pred_e_0153", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上再補充另一段細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s18_u07"]}
+{"new_event_id": "pred_e_0175", "old_event_id": "pred_e_0158", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上再補上阿哲那段細節，和舊事件補上校園專題那段屬於追加資訊，彼此不衝突。", "evidence_turn_ids": ["u01_s18_u07"]}
+{"new_event_id": "pred_e_0175", "old_event_id": "pred_e_0171", "relation": "supplements", "reason": "新事件同樣是在補實驗紀錄，但補充的是另一段內容，並未否定舊事件。", "evidence_turn_ids": ["u01_s18_u07"]}
+{"new_event_id": "pred_e_0176", "old_event_id": "pred_e_0172", "relation": "supplements", "reason": "兩則皆是在規劃如何讓實驗紀錄更好追蹤，但新事件只是新增要放入表格的項目，未取代或修正舊事件。", "evidence_turn_ids": ["u01_s18_u08"]}
+{"new_event_id": "pred_e_0177", "old_event_id": "pred_e_0141", "relation": "supplements", "reason": "新事件是在原本先補資工系館討論室內容的基礎上，補充會先抄到自己的清單裡，並未推翻舊計畫。", "evidence_turn_ids": ["u01_s19_u02"]}
+{"new_event_id": "pred_e_0177", "old_event_id": "pred_e_0162", "relation": "supplements", "reason": "新事件延續相同做法，但主題從校內場地借用系統改為資工系館討論室，屬於補充而非取代舊事件。", "evidence_turn_ids": ["u01_s19_u02"]}
+{"new_event_id": "pred_e_0177", "old_event_id": "pred_e_0167", "relation": "supplements", "reason": "新事件延續相同做法，但把資訊來源改成資工系館討論室，屬於補充不同情境而非取代舊事件。", "evidence_turn_ids": ["u01_s19_u02"]}
+{"new_event_id": "pred_e_0181", "old_event_id": "pred_e_0177", "relation": "supplements", "reason": "新事件只是把資訊來源改為 Notion 表格，補充了另一個會抄寫的來源，未否定舊事件。", "evidence_turn_ids": ["u01_s19_u06"]}
+{"new_event_id": "pred_e_0185", "old_event_id": "pred_e_0170", "relation": "supplements", "reason": "新事件延續不再只靠腦袋記實驗紀錄的偏好，並補充了另一個需要記錄的細節地點。", "evidence_turn_ids": ["u01_s20_u01"]}
+{"new_event_id": "pred_e_0185", "old_event_id": "pred_e_0174", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記實驗紀錄的偏好，並補充了另一個細節例子，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s20_u01"]}
+{"new_event_id": "pred_e_0186", "old_event_id": "pred_e_0171", "relation": "supplements", "reason": "新事件是在相同實驗紀錄補上另一段細節，沒有取代或否定舊事件內容。", "evidence_turn_ids": ["u01_s20_u02"]}
+{"new_event_id": "pred_e_0186", "old_event_id": "pred_e_0175", "relation": "supplements", "reason": "新事件延續補上實驗紀錄細節的主題，但補充的是不同段落，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s20_u02"]}
+{"new_event_id": "pred_e_0187", "old_event_id": "pred_e_0162", "relation": "supplements", "reason": "新事件是在原本整理校內場地借用系統資訊的規劃上，再補充加入表格以利追蹤實驗紀錄，未推翻舊計畫。", "evidence_turn_ids": ["u01_s20_u03"]}
+{"new_event_id": "pred_e_0189", "old_event_id": "pred_e_0174", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記實驗紀錄的偏好，僅是補充另一個工具例子，未推翻舊事件。", "evidence_turn_ids": ["u01_s20_u05"]}
+{"new_event_id": "pred_e_0189", "old_event_id": "pred_e_0185", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記實驗紀錄的偏好，僅補充另一個細節例子，未推翻舊事件。", "evidence_turn_ids": ["u01_s20_u05"]}
+{"new_event_id": "pred_e_0190", "old_event_id": "pred_e_0158", "relation": "supplements", "reason": "新事件是在實驗紀錄補上另一段細節，與舊事件提到的校園專題內容互相補充，沒有取代或矛盾。", "evidence_turn_ids": ["u01_s20_u06"]}
+{"new_event_id": "pred_e_0190", "old_event_id": "pred_e_0171", "relation": "supplements", "reason": "新事件與舊事件都在描述補實驗紀錄，但新事件只是補充另一段細節，沒有取代或否定舊事件內容。", "evidence_turn_ids": ["u01_s20_u06"]}
+{"new_event_id": "pred_e_0190", "old_event_id": "pred_e_0175", "relation": "supplements", "reason": "新事件同樣是在補上實驗紀錄細節，但補充的是不同部分（Notion 表格），未推翻舊事件中阿哲那段的內容。", "evidence_turn_ids": ["u01_s20_u06"]}
+{"new_event_id": "pred_e_0190", "old_event_id": "pred_e_0186", "relation": "supplements", "reason": "兩者都在描述使用者補充實驗紀錄，但新事件只是新增 Notion 表格那段細節，沒有推翻舊事件內容。", "evidence_turn_ids": ["u01_s20_u06"]}
+{"new_event_id": "pred_e_0191", "old_event_id": "pred_e_0154", "relation": "supplements", "reason": "新事件是在原本想把試算表納入實驗紀錄之外，另外補充要把組員阿哲也放進表格，屬於同主題的追加資訊。", "evidence_turn_ids": ["u01_s20_u07"]}
+{"new_event_id": "pred_e_0191", "old_event_id": "pred_e_0172", "relation": "supplements", "reason": "新事件是在同樣為了讓實驗紀錄好追的表格規劃中，補充加入組員阿哲，未推翻舊事件提到的下週五。", "evidence_turn_ids": ["u01_s20_u07"]}
+{"new_event_id": "pred_e_0191", "old_event_id": "pred_e_0176", "relation": "supplements", "reason": "新事件是在原本把內容放進表格以便追蹤實驗紀錄的想法上，補充新增「組員阿哲」這個項目，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s20_u07"]}
+{"new_event_id": "pred_e_0191", "old_event_id": "pred_e_0187", "relation": "supplements", "reason": "新事件是在原本把表格納入實驗紀錄追蹤的計畫上，另外補充要加入組員阿哲，未與舊事件衝突。", "evidence_turn_ids": ["u01_s20_u07"]}
+{"new_event_id": "pred_e_0192", "old_event_id": "pred_e_0188", "relation": "supplements", "reason": "新事件延續先前要問阿哲確認到穩定版本的計畫，並補充具體範圍是校園專題那部分。", "evidence_turn_ids": ["u01_s20_u08"]}
+{"new_event_id": "pred_e_0193", "old_event_id": "pred_e_0177", "relation": "supplements", "reason": "新事件補充了目前週末整理地點改為資工系館討論室，與舊事件提到的資訊更新後抄寫清單不衝突。", "evidence_turn_ids": ["u01_s21_u01"]}
+{"new_event_id": "pred_e_0196", "old_event_id": "pred_e_0131", "relation": "supplements", "reason": "新事件只是補充要先從校內場地借用系統那段開始，沒有推翻或修正舊事件中先問阿哲並確認下週五前整理到穩定版本的計畫。", "evidence_turn_ids": ["u01_s21_u03"]}
+{"new_event_id": "pred_e_0196", "old_event_id": "pred_e_0162", "relation": "supplements", "reason": "新事件只是補充先從校內場地借用系統那段開始處理，未推翻舊事件中先把校園專題相關部分抄到清單裡的計畫。", "evidence_turn_ids": ["u01_s21_u03"]}
+{"new_event_id": "pred_e_0196", "old_event_id": "pred_e_0187", "relation": "supplements", "reason": "新事件是在原本把校內場地借用系統納入表格的計畫上，補充說明先從這一段開始處理，未否定舊計畫。", "evidence_turn_ids": ["u01_s21_u03"]}
+{"new_event_id": "pred_e_0199", "old_event_id": "pred_e_0194", "relation": "supplements", "reason": "新事件是在相同情境下補充另一個要先記錄的工具用途，未否定舊事件內容。", "evidence_turn_ids": ["u01_s21_u06"]}
+{"new_event_id": "pred_e_0200", "old_event_id": "pred_e_0131", "relation": "supplements", "reason": "新事件補充了先處理組員阿哲那段的細節，與舊事件的確認整理計畫相容，未推翻舊內容。", "evidence_turn_ids": ["u01_s21_u07"]}
+{"new_event_id": "pred_e_0200", "old_event_id": "pred_e_0135", "relation": "supplements", "reason": "新事件只是補充仍在處理阿哲相關內容的後續安排，未推翻舊事件的確認時程。", "evidence_turn_ids": ["u01_s21_u07"]}
+{"new_event_id": "pred_e_0200", "old_event_id": "pred_e_0191", "relation": "supplements", "reason": "新事件是在延伸原本與組員阿哲相關的規劃，補充先從阿哲那段開始處理，未推翻舊事件。", "evidence_turn_ids": ["u01_s21_u07"]}
+{"new_event_id": "pred_e_0202", "old_event_id": "pred_e_0198", "relation": "supersedes", "reason": "新事件明確將主要整理工具改成 Notion 表格，並以此作為校園專題進度安排，取代原先使用 Google 試算表抄錄的做法。", "evidence_turn_ids": ["u01_s22_u01"]}
+{"new_event_id": "pred_e_0203", "old_event_id": "pred_e_0193", "relation": "supplements", "reason": "新事件只是補充要把資工系館討論室加入表格追蹤，未推翻舊事件的週末整理地點安排。", "evidence_turn_ids": ["u01_s22_u02"]}
+{"new_event_id": "pred_e_0206", "old_event_id": "pred_e_0175", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上補充不同細節，且沒有推翻舊事件內容。", "evidence_turn_ids": ["u01_s22_u05"]}
+{"new_event_id": "pred_e_0207", "old_event_id": "pred_e_0202", "relation": "supplements", "reason": "新事件是在原本使用 Notion 表格規劃之外，補充將其納入實驗紀錄整理，未推翻舊計畫。", "evidence_turn_ids": ["u01_s22_u06"]}
+{"new_event_id": "pred_e_0208", "old_event_id": "pred_e_0204", "relation": "supplements", "reason": "新事件與舊事件同為詢問阿哲確認下週五前能否整理成穩定版本，內容較概括，屬於補充而非取代。", "evidence_turn_ids": ["u01_s22_u07"]}
+{"new_event_id": "pred_e_0209", "old_event_id": "pred_e_0174", "relation": "supplements", "reason": "新事件延續不靠腦袋記實驗紀錄的偏好，並補充說明也在意校園專題相關細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s22_u08"]}
+{"new_event_id": "pred_e_0209", "old_event_id": "pred_e_0185", "relation": "supplements", "reason": "新事件延續不只靠腦袋記實驗紀錄的偏好，並補充了適用範圍改為校園專題相關細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s22_u08"]}
+{"new_event_id": "pred_e_0209", "old_event_id": "pred_e_0189", "relation": "supplements", "reason": "新事件延續不只靠腦袋記實驗紀錄的偏好，並補充了具體情境為校園專題相關細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s22_u08"]}
+{"new_event_id": "pred_e_0211", "old_event_id": "pred_e_0179", "relation": "supplements", "reason": "新事件只重申偏好用 Notion 表格，未推翻或修正舊事件中對 Google 試算表的不喜歡。", "evidence_turn_ids": ["u01_s23_u02"]}
+{"new_event_id": "pred_e_0211", "old_event_id": "pred_e_0195", "relation": "supplements", "reason": "新事件只是再次補充偏好用 Notion 表格，沒有推翻舊事件中對 Google 試算表的看法。", "evidence_turn_ids": ["u01_s23_u02"]}
+{"new_event_id": "pred_e_0212", "old_event_id": "pred_e_0195", "relation": "supplements", "reason": "新事件補充並重述了對 Google 試算表的不喜歡原因，未推翻舊事件中偏好用 Notion 表格的資訊。", "evidence_turn_ids": ["u01_s23_u02"]}
+{"new_event_id": "pred_e_0213", "old_event_id": "pred_e_0177", "relation": "supplements", "reason": "新事件只是補充說明先從資工系館討論室那段開始，沒有推翻舊事件的先抄校園專題相關內容計畫。", "evidence_turn_ids": ["u01_s23_u02"]}
+{"new_event_id": "pred_e_0213", "old_event_id": "pred_e_0193", "relation": "supplements", "reason": "新事件只是補充在資工系館討論室先開始的安排，沒有推翻舊的週末整理地點設定。", "evidence_turn_ids": ["u01_s23_u02"]}
+{"new_event_id": "pred_e_0213", "old_event_id": "pred_e_0203", "relation": "supplements", "reason": "新事件是在原本要把資工系館討論室加入表格的計畫上，補充先從該段開始處理，沒有取代或否定舊事件。", "evidence_turn_ids": ["u01_s23_u02"]}
+{"new_event_id": "pred_e_0214", "old_event_id": "pred_e_0128", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是補充了實體資訊，沒有取代或修正原意。", "evidence_turn_ids": ["u01_s23_u03"]}
+{"new_event_id": "pred_e_0218", "old_event_id": "pred_e_0105", "relation": "supplements", "reason": "新事件是在原本會先處理 Notion 表格相關內容的計畫上，補充本次先從那一段開始，未推翻舊計畫。", "evidence_turn_ids": ["u01_s23_u06"]}
+{"new_event_id": "pred_e_0218", "old_event_id": "pred_e_0125", "relation": "supplements", "reason": "新事件只是補充說明先從 Notion 表格那段開始，與舊事件想在 Notion 表格記錄後續版本和協作狀態不衝突。", "evidence_turn_ids": ["u01_s23_u06"]}
+{"new_event_id": "pred_e_0218", "old_event_id": "pred_e_0181", "relation": "supplements", "reason": "新事件是在同一個 Notion 表格相關計畫上補充先處理的部分，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s23_u06"]}
+{"new_event_id": "pred_e_0219", "old_event_id": "pred_e_0161", "relation": "supplements", "reason": "新事件延續舊事件對校園專題準備方式的描述，並補充了組員阿哲等資訊，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s23_u07"]}
+{"new_event_id": "pred_e_0219", "old_event_id": "pred_e_0166", "relation": "supplements", "reason": "新事件延續舊事件對校園專題的認知，並補充了相關人物與細節，未使舊事件失效。", "evidence_turn_ids": ["u01_s23_u07"]}
+{"new_event_id": "pred_e_0219", "old_event_id": "pred_e_0214", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是補充了「組員阿哲」這個額外實體資訊。", "evidence_turn_ids": ["u01_s23_u07"]}
+{"new_event_id": "pred_e_0221", "old_event_id": "pred_e_0203", "relation": "supersedes", "reason": "新事件明確表示改成在資工系館討論室且前面的安排不再沿用，屬於對舊計畫的更新取代。", "evidence_turn_ids": ["u01_s24_u01"]}
+{"new_event_id": "pred_e_0221", "old_event_id": "pred_e_0213", "relation": "supersedes", "reason": "新事件明確表示安排改成在資工系館討論室且前面的安排不再沿用，屬於對舊計畫的更新取代。", "evidence_turn_ids": ["u01_s24_u01"]}
+{"new_event_id": "pred_e_0224", "old_event_id": "pred_e_0178", "relation": "supplements", "reason": "新事件補充了使用者對校內場地借用系統細節的記憶方式調整，與舊事件想記錄相關公開流程資訊的意圖相容，未推翻舊資訊。", "evidence_turn_ids": ["u01_s24_u03"]}
+{"new_event_id": "pred_e_0224", "old_event_id": "pred_e_0204", "relation": "supplements", "reason": "新事件補充了使用者對校內場地借用系統細節管理方式的改變，未直接否定舊事件要先詢問阿哲確認系統狀態。", "evidence_turn_ids": ["u01_s24_u03"]}
+{"new_event_id": "pred_e_0227", "old_event_id": "pred_e_0208", "relation": "supplements", "reason": "新事件延續先前要詢問阿哲並確認下週五前能否整理到穩定版本的計畫，僅補充具體範圍為 Notion 表格部分。", "evidence_turn_ids": ["u01_s24_u06"]}
+{"new_event_id": "pred_e_0229", "old_event_id": "pred_e_0190", "relation": "supplements", "reason": "新事件延續並補充了舊事件中已補上實驗紀錄細節的狀態，沒有推翻舊資訊。", "evidence_turn_ids": ["u01_s24_u08"]}
+{"new_event_id": "pred_e_0233", "old_event_id": "pred_e_0183", "relation": "supplements", "reason": "新事件只是重述並補充相同偏好，沒有推翻舊事件內容。", "evidence_turn_ids": ["u01_s25_u05"]}
+{"new_event_id": "pred_e_0233", "old_event_id": "pred_e_0195", "relation": "supplements", "reason": "新事件只是重述並補強舊事件的偏好原因，沒有取代或修正原內容。", "evidence_turn_ids": ["u01_s25_u05"]}
+{"new_event_id": "pred_e_0233", "old_event_id": "pred_e_0211", "relation": "supplements", "reason": "新事件延續舊事件的偏好，並補充了偏好原因，沒有取代或否定舊資訊。", "evidence_turn_ids": ["u01_s25_u05"]}
+{"new_event_id": "pred_e_0237", "old_event_id": "pred_e_0210", "relation": "supersedes", "reason": "新事件明確以「改成」「前面的安排先不用照舊」「改用這個版本」更新同一校園專題規劃，表示以新安排取代舊安排。", "evidence_turn_ids": ["u01_s26_u01"]}
+{"new_event_id": "pred_e_0238", "old_event_id": "pred_e_0209", "relation": "supplements", "reason": "新事件延續不只靠腦袋記實驗紀錄的偏好，並補充了另一類細節來源，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s26_u02"]}
+{"new_event_id": "pred_e_0239", "old_event_id": "pred_e_0206", "relation": "supplements", "reason": "新事件是在原本已補上的實驗紀錄之外，另外補充了校內場地借用系統那段，屬於追加內容而非取代或修正。", "evidence_turn_ids": ["u01_s26_u03"]}
+{"new_event_id": "pred_e_0241", "old_event_id": "pred_e_0235", "relation": "supplements", "reason": "新事件只是補充使用者接下來要先詢問阿哲確認 Google 試算表的安排，與原本把校園專題資訊抄進清單的計畫相容，未使舊事件失效。", "evidence_turn_ids": ["u01_s26_u05"]}
+{"new_event_id": "pred_e_0241", "old_event_id": "pred_e_0237", "relation": "supplements", "reason": "新事件是在補充與阿哲及專題進度相關的具體確認事項，未推翻舊事件的安排。", "evidence_turn_ids": ["u01_s26_u05"]}
+{"new_event_id": "pred_e_0242", "old_event_id": "pred_e_0209", "relation": "supplements", "reason": "新事件延續不只靠腦袋記實驗紀錄的偏好，並補充了具體例子是 Notion 表格，未推翻舊事件。", "evidence_turn_ids": ["u01_s26_u06"]}
+{"new_event_id": "pred_e_0242", "old_event_id": "pred_e_0238", "relation": "supplements", "reason": "新事件延續同一偏好，僅補充另一個需要記錄的細節來源，沒有否定舊事件。", "evidence_turn_ids": ["u01_s26_u06"]}
+{"new_event_id": "pred_e_0243", "old_event_id": "pred_e_0206", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上再補充不同細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s26_u07"]}
+{"new_event_id": "pred_e_0243", "old_event_id": "pred_e_0225", "relation": "supplements", "reason": "新事件是在同一件補寫實驗紀錄的事情上，新增了「特別是阿哲那段」這個細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s26_u07"]}
+{"new_event_id": "pred_e_0243", "old_event_id": "pred_e_0229", "relation": "supplements", "reason": "新事件延續舊事件，並補充說明補上的細節特別是阿哲那段。", "evidence_turn_ids": ["u01_s26_u07"]}
+{"new_event_id": "pred_e_0244", "old_event_id": "pred_e_0240", "relation": "supplements", "reason": "新事件是在相同目的下把不同內容加入表格，與舊事件不衝突，屬於補充。", "evidence_turn_ids": ["u01_s26_u08"]}
+{"new_event_id": "pred_e_0246", "old_event_id": "pred_e_0215", "relation": "supplements", "reason": "新事件延續了把校園專題相關資訊抄到自己清單的做法，只是補充了資訊更新的對象是資工系館討論室。", "evidence_turn_ids": ["u01_s27_u02"]}
+{"new_event_id": "pred_e_0246", "old_event_id": "pred_e_0220", "relation": "supplements", "reason": "新事件只是補充另一個會同步抄寫的資訊來源，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s27_u02"]}
+{"new_event_id": "pred_e_0246", "old_event_id": "pred_e_0222", "relation": "supplements", "reason": "新事件補充了對資工系館討論室資訊更新後的處理方式，未否定舊事件要先問阿哲確認的安排。", "evidence_turn_ids": ["u01_s27_u02"]}
+{"new_event_id": "pred_e_0248", "old_event_id": "pred_e_0195", "relation": "supplements", "reason": "新事件與舊事件內容相同但只是改寫與補充理由，沒有取代或修正原偏好。", "evidence_turn_ids": ["u01_s27_u04"]}
+{"new_event_id": "pred_e_0248", "old_event_id": "pred_e_0233", "relation": "supplements", "reason": "新事件與舊事件內容一致，只是表述略有不同，沒有取代或矛盾。", "evidence_turn_ids": ["u01_s27_u04"]}
+{"new_event_id": "pred_e_0250", "old_event_id": "pred_e_0166", "relation": "supplements", "reason": "新事件補充了相同的校園專題想法，並加入 Google 試算表相關資訊，未推翻舊事件。", "evidence_turn_ids": ["u01_s27_u05"]}
+{"new_event_id": "pred_e_0250", "old_event_id": "pred_e_0214", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅補充了相關實體資訊，未取代或修正原意。", "evidence_turn_ids": ["u01_s27_u05"]}
+{"new_event_id": "pred_e_0250", "old_event_id": "pred_e_0219", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅補充了相關實體資訊，未推翻原本描述。", "evidence_turn_ids": ["u01_s27_u05"]}
+{"new_event_id": "pred_e_0251", "old_event_id": "pred_e_0220", "relation": "supplements", "reason": "新事件補充了資訊來源改為 Notion 表格，原本將校園專題相關內容抄到清單的做法仍然成立。", "evidence_turn_ids": ["u01_s27_u06"]}
+{"new_event_id": "pred_e_0251", "old_event_id": "pred_e_0227", "relation": "supplements", "reason": "新事件補充了使用者對 Notion 表格資訊更新時的處理方式，與舊事件要先確認穩定版本不衝突。", "evidence_turn_ids": ["u01_s27_u06"]}
+{"new_event_id": "pred_e_0251", "old_event_id": "pred_e_0246", "relation": "supplements", "reason": "新事件只是補充另一個會更新的資訊來源，與舊事件的做法相同且不互相取代。", "evidence_turn_ids": ["u01_s27_u06"]}
+{"new_event_id": "pred_e_0256", "old_event_id": "pred_e_0239", "relation": "supplements", "reason": "新事件延續同一份實驗紀錄的補充作業，只是新增了另一段細節，未推翻舊事件。", "evidence_turn_ids": ["u01_s28_u02"]}
+{"new_event_id": "pred_e_0256", "old_event_id": "pred_e_0243", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄上補充另一段細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s28_u02"]}
+{"new_event_id": "pred_e_0257", "old_event_id": "pred_e_0231", "relation": "supplements", "reason": "新事件是把校內場地借用系統納入實驗紀錄表格的額外規劃，未否定舊事件先抄到清單的做法。", "evidence_turn_ids": ["u01_s28_u03"]}
+{"new_event_id": "pred_e_0259", "old_event_id": "pred_e_0238", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記實驗紀錄的偏好，並補充了另一個需要記錄的細節範圍。", "evidence_turn_ids": ["u01_s28_u05"]}
+{"new_event_id": "pred_e_0259", "old_event_id": "pred_e_0242", "relation": "supplements", "reason": "新事件延續同一偏好，僅將具體工具由 Notion 補充為 Google 試算表，未使舊事件失效。", "evidence_turn_ids": ["u01_s28_u05"]}
+{"new_event_id": "pred_e_0261", "old_event_id": "pred_e_0229", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充，新增了「包含 Notion 表格那段」的細節，沒有推翻舊事件。", "evidence_turn_ids": ["u01_s28_u06"]}
+{"new_event_id": "pred_e_0261", "old_event_id": "pred_e_0239", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄中補充另一段細節，並未否定舊事件內容。", "evidence_turn_ids": ["u01_s28_u06"]}
+{"new_event_id": "pred_e_0261", "old_event_id": "pred_e_0243", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄中再補上不同細節，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s28_u06"]}
+{"new_event_id": "pred_e_0261", "old_event_id": "pred_e_0256", "relation": "supplements", "reason": "新事件是在同一份實驗紀錄中補上另一段細節，並未否定舊事件內容。", "evidence_turn_ids": ["u01_s28_u06"]}
+{"new_event_id": "pred_e_0262", "old_event_id": "pred_e_0257", "relation": "supplements", "reason": "新事件是將另一個項目加入實驗紀錄表格，與舊事件想加入校內場地借用系統相同主題但不互相否定。", "evidence_turn_ids": ["u01_s28_u07"]}
+{"new_event_id": "pred_e_0263", "old_event_id": "pred_e_0258", "relation": "supplements", "reason": "新事件延續先前要詢問阿哲並確認到穩定版本的計畫，只是補充了具體主題為校園專題，未與舊事件衝突。", "evidence_turn_ids": ["u01_s28_u08"]}
+{"new_event_id": "pred_e_0264", "old_event_id": "pred_e_0253", "relation": "supersedes", "reason": "新事件明確表示提醒安排改為新的方式，且前面的安排先不用照舊，屬於更新取代舊計畫。", "evidence_turn_ids": ["u01_s29_u01"]}
+{"new_event_id": "pred_e_0266", "old_event_id": "pred_e_0233", "relation": "supplements", "reason": "新事件與舊事件表達的是相同偏好，僅是較早時間的相近描述，沒有新增衝突或修正。", "evidence_turn_ids": ["u01_s29_u03"]}
+{"new_event_id": "pred_e_0267", "old_event_id": "pred_e_0231", "relation": "supplements", "reason": "新事件只是補充使用者先從校內場地借用系統那段開始處理，未推翻舊事件中先抄到清單裡的做法。", "evidence_turn_ids": ["u01_s29_u03"]}
+{"new_event_id": "pred_e_0267", "old_event_id": "pred_e_0257", "relation": "supplements", "reason": "新事件只是補充說明先從校內場地借用系統開始處理，未推翻舊事件要納入實驗紀錄表格的計畫。", "evidence_turn_ids": ["u01_s29_u03"]}
+{"new_event_id": "pred_e_0270", "old_event_id": "pred_e_0191", "relation": "supplements", "reason": "新事件補充了使用者先從組員阿哲那段開始處理，未推翻原本想把阿哲放進表格的計畫。", "evidence_turn_ids": ["u01_s29_u07"]}
+{"new_event_id": "pred_e_0270", "old_event_id": "pred_e_0200", "relation": "supplements", "reason": "新事件只是補充舊事件中「先從組員阿哲那段開始補」的同一計劃內容，未造成舊事件失效。", "evidence_turn_ids": ["u01_s29_u07"]}
+{"new_event_id": "pred_e_0270", "old_event_id": "pred_e_0262", "relation": "supplements", "reason": "新事件只是補充先從組員阿哲那段開始，與舊事件想把阿哲放進實驗紀錄表格的計畫相容，沒有取代或修正關係。", "evidence_turn_ids": ["u01_s29_u07"]}
+{"new_event_id": "pred_e_0271", "old_event_id": "pred_e_0253", "relation": "supersedes", "reason": "新事件明確表示將安排改為下週五交初版後再檢查，並不沿用前面的安排，屬於取代舊計畫。", "evidence_turn_ids": ["u01_s30_u01"]}
+{"new_event_id": "pred_e_0271", "old_event_id": "pred_e_0264", "relation": "supersedes", "reason": "新事件明確表示將安排改為下週五交初版後再約檢查，且先不沿用前面的安排，屬於更新原本提醒安排。", "evidence_turn_ids": ["u01_s30_u01"]}
+{"new_event_id": "pred_e_0272", "old_event_id": "pred_e_0221", "relation": "supplements", "reason": "新事件只是補充將資工系館討論室加入表格以追蹤實驗紀錄，未取代或否定舊事件中的通勤安排變更。", "evidence_turn_ids": ["u01_s30_u02"]}
+{"new_event_id": "pred_e_0274", "old_event_id": "pred_e_0238", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記實驗紀錄的偏好，並補充了另一類細節例子下週五，未否定舊事件。", "evidence_turn_ids": ["u01_s30_u04"]}
+{"new_event_id": "pred_e_0274", "old_event_id": "pred_e_0259", "relation": "supplements", "reason": "新事件延續不靠腦袋記實驗紀錄的偏好，僅把細節例子從 Google 試算表補充為下週五。", "evidence_turn_ids": ["u01_s30_u04"]}
+{"new_event_id": "pred_e_0275", "old_event_id": "pred_e_0239", "relation": "supplements", "reason": "兩則事件都在說補實驗紀錄細節，且新事件只是增加了「Google 試算表」這個補充內容，未否定舊事件。", "evidence_turn_ids": ["u01_s30_u05"]}
+{"new_event_id": "pred_e_0275", "old_event_id": "pred_e_0243", "relation": "supplements", "reason": "兩者都是補上實驗紀錄細節，但新事件只是新增不同段落的補充，未推翻舊事件內容。", "evidence_turn_ids": ["u01_s30_u05"]}
+{"new_event_id": "pred_e_0275", "old_event_id": "pred_e_0256", "relation": "supplements", "reason": "兩則都是在補充實驗紀錄的不同細節，內容可並存且不互相否定。", "evidence_turn_ids": ["u01_s30_u05"]}
+{"new_event_id": "pred_e_0275", "old_event_id": "pred_e_0261", "relation": "supplements", "reason": "兩則都在描述補上實驗紀錄細節，但新增的是不同內容（Google 試算表段落），可視為對原紀錄的補充。", "evidence_turn_ids": ["u01_s30_u05"]}
+{"new_event_id": "pred_e_0278", "old_event_id": "pred_e_0238", "relation": "supplements", "reason": "新事件延伸同一偏好，補充了另一類需要記錄的細節，但不否定舊事件內容。", "evidence_turn_ids": ["u01_s30_u08"]}
+{"new_event_id": "pred_e_0278", "old_event_id": "pred_e_0242", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記實驗紀錄的偏好，僅是補充另一個例子，未推翻舊事件。", "evidence_turn_ids": ["u01_s30_u08"]}
+{"new_event_id": "pred_e_0278", "old_event_id": "pred_e_0259", "relation": "supplements", "reason": "新事件補充了不想只靠腦袋記實驗紀錄的情境，從 Google 試算表細節擴展到校園專題細節，未使舊事件失效。", "evidence_turn_ids": ["u01_s30_u08"]}
+{"new_event_id": "pred_e_0278", "old_event_id": "pred_e_0274", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記實驗紀錄的偏好，並補充了另一個細節例子「校園專題」，未取代舊事件。", "evidence_turn_ids": ["u01_s30_u08"]}
+{"new_event_id": "pred_e_0283", "old_event_id": "pred_e_0280", "relation": "supplements", "reason": "新事件延伸了相同的整理暑期實習資訊做法，但對象改為學姊小安，屬於補充而非取代舊計畫。", "evidence_turn_ids": ["u02_s01_u07"]}
+{"new_event_id": "pred_e_0284", "old_event_id": "pred_e_0281", "relation": "supplements", "reason": "新事件延續對暑期實習時間安排的擔心，並補充了需要一併考慮的地點與資料整理方式，未推翻舊事件的時間限制記錄。", "evidence_turn_ids": ["u02_s01_u08"]}
+{"new_event_id": "pred_e_0290", "old_event_id": "pred_e_0286", "relation": "supplements", "reason": "新事件延續同一偏好，補充了使用者不想只靠腦袋記的作品集細節範圍，加入 GitHub Pages 相關內容，未使舊事件失效。", "evidence_turn_ids": ["u02_s02_u06"]}
+{"new_event_id": "pred_e_0291", "old_event_id": "pred_e_0287", "relation": "supplements", "reason": "兩則事件都在說作品集補細節，new_event 只是補充另一段內容「學姊小安」，不會使 old_event 失效。", "evidence_turn_ids": ["u02_s02_u07"]}
+{"new_event_id": "pred_e_0292", "old_event_id": "pred_e_0288", "relation": "supplements", "reason": "新事件是把不同項目加入同一張表格，與舊事件不衝突，屬於補充。", "evidence_turn_ids": ["u02_s02_u08"]}
+{"new_event_id": "pred_e_0296", "old_event_id": "pred_e_0284", "relation": "supplements", "reason": "新事件補充並強化了對暑期實習時間可能被壓縮的擔心，未推翻舊事件中記下時間、地點與資料整理方式的內容。", "evidence_turn_ids": ["u02_s03_u03"]}
+{"new_event_id": "pred_e_0297", "old_event_id": "pred_e_0280", "relation": "supplements", "reason": "新事件是在相同主題下補充記錄內容，與舊事件的抄寫暑期實習相關資訊計畫一致，未使舊事件失效。", "evidence_turn_ids": ["u02_s03_u03"]}
+{"new_event_id": "pred_e_0301", "old_event_id": "pred_e_0283", "relation": "supplements", "reason": "新事件沿用把暑期實習相關資訊抄到清單的做法，但資訊來源改成 GitHub Pages，屬於補充不同來源的計畫。", "evidence_turn_ids": ["u02_s03_u06"]}
+{"new_event_id": "pred_e_0301", "old_event_id": "pred_e_0295", "relation": "supplements", "reason": "新事件只是補充另一個資訊來源為 GitHub Pages，原本關於學校職涯中心的計畫仍可並存。", "evidence_turn_ids": ["u02_s03_u06"]}
+{"new_event_id": "pred_e_0302", "old_event_id": "pred_e_0284", "relation": "supplements", "reason": "新事件補充了對暑期實習時間被壓縮的擔心，與舊事件主題相同但內容較精簡，未推翻舊資訊。", "evidence_turn_ids": ["u02_s03_u07"]}
+{"new_event_id": "pred_e_0307", "old_event_id": "pred_e_0291", "relation": "supplements", "reason": "新事件同樣是在補作品集細節，但補的是不同段落，屬於對舊事件的補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s04_u02"]}
+{"new_event_id": "pred_e_0308", "old_event_id": "pred_e_0280", "relation": "supplements", "reason": "新事件補充了使用者處理大學職涯公告的方式，增加了放進表格以便追蹤的做法，未否定原本抄錄暑期實習資訊到清單的計畫。", "evidence_turn_ids": ["u02_s04_u03"]}
+{"new_event_id": "pred_e_0308", "old_event_id": "pred_e_0288", "relation": "supplements", "reason": "新事件補充了要放入表格的內容，從六月初改為大學職涯公告，未使舊事件失效。", "evidence_turn_ids": ["u02_s04_u03"]}
+{"new_event_id": "pred_e_0308", "old_event_id": "pred_e_0292", "relation": "supplements", "reason": "新事件是把不同內容的大學職涯公告加入表格，補充了原本暑期實習放入表格的規劃，沒有直接取代或修正舊事件。", "evidence_turn_ids": ["u02_s04_u03"]}
+{"new_event_id": "pred_e_0308", "old_event_id": "pred_e_0297", "relation": "supplements", "reason": "新事件是在補充如何整理大學職涯公告的方式，與舊事件記錄公開流程資訊不衝突。", "evidence_turn_ids": ["u02_s04_u03"]}
+{"new_event_id": "pred_e_0310", "old_event_id": "pred_e_0290", "relation": "supplements", "reason": "新事件延續不靠腦袋記作品集細節的偏好，並補充了 Canva 履歷這類細節，未使舊事件失效。", "evidence_turn_ids": ["u02_s04_u05"]}
+{"new_event_id": "pred_e_0312", "old_event_id": "pred_e_0287", "relation": "supplements", "reason": "新事件延續同一作品集更新，但補上的細節不同，屬於新增補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s04_u06"]}
+{"new_event_id": "pred_e_0312", "old_event_id": "pred_e_0291", "relation": "supplements", "reason": "兩者都在描述作品集補充細節，但新事件只是增加了另一段內容，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s04_u06"]}
+{"new_event_id": "pred_e_0312", "old_event_id": "pred_e_0307", "relation": "supplements", "reason": "新事件與舊事件都是在補作品集的不同漏項，內容互補而非取代或矛盾。", "evidence_turn_ids": ["u02_s04_u06"]}
+{"new_event_id": "pred_e_0314", "old_event_id": "pred_e_0289", "relation": "supplements", "reason": "新事件延續了先問學姊小安、在六月初前確認成穩定版本的規劃，只是補充確認的內容從 Canva 履歷改成暑期實習。", "evidence_turn_ids": ["u02_s04_u08"]}
+{"new_event_id": "pred_e_0314", "old_event_id": "pred_e_0309", "relation": "supplements", "reason": "新事件沿用先前要先問學姊小安的計畫，只是補充確認內容改為暑期實習那部分，未否定舊事件。", "evidence_turn_ids": ["u02_s04_u08"]}
+{"new_event_id": "pred_e_0317", "old_event_id": "pred_e_0294", "relation": "supplements", "reason": "新事件延續偏好用熟悉的方式處理，並補充適用對象改為資料備份，未使舊事件失效。", "evidence_turn_ids": ["u02_s05_u01"]}
+{"new_event_id": "pred_e_0317", "old_event_id": "pred_e_0315", "relation": "supplements", "reason": "新事件補充了資料備份偏好背後的理由，但沒有改變只存在筆電裡的限制。", "evidence_turn_ids": ["u02_s05_u01"]}
+{"new_event_id": "pred_e_0319", "old_event_id": "pred_e_0305", "relation": "supplements", "reason": "新事件是在原本家裡客廳相關規劃之外，補充加入臺北市資料大平臺作為公共資訊 grounding 入口，未推翻舊事件。", "evidence_turn_ids": ["u02_s05_u02"]}
+{"new_event_id": "pred_e_0320", "old_event_id": "pred_e_0298", "relation": "supplements", "reason": "新事件延續舊事件偏好 GitHub Pages，並補充了整理內容的用途，沒有推翻舊資訊。", "evidence_turn_ids": ["u02_s05_u03"]}
+{"new_event_id": "pred_e_0322", "old_event_id": "pred_e_0280", "relation": "supplements", "reason": "新事件只是補充說明先從大學職涯公告開始整理，未推翻舊事件中先抄錄暑期實習相關內容的計畫。", "evidence_turn_ids": ["u02_s05_u03"]}
+{"new_event_id": "pred_e_0322", "old_event_id": "pred_e_0297", "relation": "supplements", "reason": "新事件是在原本記錄大學職涯公告相關內容的基礎上補充先從那段開始，未推翻舊計畫。", "evidence_turn_ids": ["u02_s05_u03"]}
+{"new_event_id": "pred_e_0322", "old_event_id": "pred_e_0308", "relation": "supplements", "reason": "新事件只是補充先從大學職涯公告段落開始處理，未推翻舊事件要放進表格的規劃。", "evidence_turn_ids": ["u02_s05_u03"]}
+{"new_event_id": "pred_e_0323", "old_event_id": "pred_e_0295", "relation": "supplements", "reason": "新事件是把相同的「抄到自己的清單裡」行動套用到另一個資訊來源，屬於補充而非取代舊事件。", "evidence_turn_ids": ["u02_s05_u05"]}
+{"new_event_id": "pred_e_0327", "old_event_id": "pred_e_0294", "relation": "supplements", "reason": "新事件在保留偏好熟悉方式整理作品集的同時，補充了先自己處理合作與作品集整理及初版狀態，未推翻舊資訊。", "evidence_turn_ids": ["u02_s06_u01"]}
+{"new_event_id": "pred_e_0327", "old_event_id": "pred_e_0317", "relation": "supplements", "reason": "新事件延伸了「偏好先用熟悉的方式」的想法，並補充了目前要自己處理合作與作品集整理，未推翻舊事件。", "evidence_turn_ids": ["u02_s06_u01"]}
+{"new_event_id": "pred_e_0328", "old_event_id": "pred_e_0292", "relation": "supplements", "reason": "新事件是在同樣的表格與作品集脈絡下增加另一項要放入的內容，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s06_u02"]}
+{"new_event_id": "pred_e_0328", "old_event_id": "pred_e_0295", "relation": "supplements", "reason": "新事件是把學校職涯中心加入表格以便追蹤，與舊事件抄錄暑期實習內容到清單的規劃不同且可並存。", "evidence_turn_ids": ["u02_s06_u02"]}
+{"new_event_id": "pred_e_0328", "old_event_id": "pred_e_0313", "relation": "supplements", "reason": "新事件是在同樣的表格規劃上補充新增「學校職涯中心」，不會使舊事件中放入學姊小安的安排失效。", "evidence_turn_ids": ["u02_s06_u02"]}
+{"new_event_id": "pred_e_0329", "old_event_id": "pred_e_0308", "relation": "supplements", "reason": "新事件是在補充如何處理大學職涯公告的進一步計畫，未推翻舊事件要放進表格的想法。", "evidence_turn_ids": ["u02_s06_u03"]}
+{"new_event_id": "pred_e_0329", "old_event_id": "pred_e_0322", "relation": "supplements", "reason": "新事件是在原本先補大學職涯公告的計畫上，補充了先詢問學姊小安與確認六月初前整理成穩定版本的細節，未推翻舊計畫。", "evidence_turn_ids": ["u02_s06_u03"]}
+{"new_event_id": "pred_e_0331", "old_event_id": "pred_e_0287", "relation": "supplements", "reason": "新事件是在同一作品集完成補充，新增了 Can va 履歷那段細節，未推翻舊事件提到的大學職涯公告內容。", "evidence_turn_ids": ["u02_s06_u05"]}
+{"new_event_id": "pred_e_0331", "old_event_id": "pred_e_0291", "relation": "supplements", "reason": "新事件是在同一作品集完成補充，但補上的內容不同，屬於增加細節而非取代或修正舊事件。", "evidence_turn_ids": ["u02_s06_u05"]}
+{"new_event_id": "pred_e_0331", "old_event_id": "pred_e_0307", "relation": "supplements", "reason": "新事件是在同一作品集補上另一個細節，屬於對舊事件的เพิ่มเติม而非取代或矛盾。", "evidence_turn_ids": ["u02_s06_u05"]}
+{"new_event_id": "pred_e_0331", "old_event_id": "pred_e_0312", "relation": "supplements", "reason": "新事件是在同一個作品集完成內容的基礎上，補充了另一段細節，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s06_u05"]}
+{"new_event_id": "pred_e_0332", "old_event_id": "pred_e_0313", "relation": "supplements", "reason": "新事件是為了讓作品集好追蹤而新增要放入表格的項目，與舊事件同屬表格規劃，屬於補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s06_u06"]}
+{"new_event_id": "pred_e_0334", "old_event_id": "pred_e_0330", "relation": "supplements", "reason": "新事件延續原本不想只靠腦袋記作品集細節的偏好，並補充了少記會讓後面整理卡住的情境。", "evidence_turn_ids": ["u02_s06_u08"]}
+{"new_event_id": "pred_e_0337", "old_event_id": "pred_e_0320", "relation": "supplements", "reason": "新事件與舊事件主題相同，且只是補充為「目前」的偏好，未推翻舊資訊。", "evidence_turn_ids": ["u02_s07_u02"]}
+{"new_event_id": "pred_e_0339", "old_event_id": "pred_e_0295", "relation": "supplements", "reason": "新事件只是補充先從學校職涯中心那段開始處理，與舊事件先抄暑期實習到清單的計畫相容，未推翻舊內容。", "evidence_turn_ids": ["u02_s07_u02"]}
+{"new_event_id": "pred_e_0339", "old_event_id": "pred_e_0328", "relation": "supplements", "reason": "新事件是在既有「把學校職涯中心放進表格」計畫上補充先從該段開始處理，沒有推翻舊內容。", "evidence_turn_ids": ["u02_s07_u02"]}
+{"new_event_id": "pred_e_0340", "old_event_id": "pred_e_0300", "relation": "supplements", "reason": "新事件與舊事件內容相同，但沒有推翻或修正，只是資訊較少，屬於補充或重述。", "evidence_turn_ids": ["u02_s07_u03"]}
+{"new_event_id": "pred_e_0342", "old_event_id": "pred_e_0296", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅是重述同一擔心，未構成取代或修正。", "evidence_turn_ids": ["u02_s07_u05"]}
+{"new_event_id": "pred_e_0342", "old_event_id": "pred_e_0302", "relation": "supplements", "reason": "新舊事件內容相同，僅是同一擔心的再次表述，未構成取代或修正。", "evidence_turn_ids": ["u02_s07_u05"]}
+{"new_event_id": "pred_e_0344", "old_event_id": "pred_e_0320", "relation": "supplements", "reason": "新事件只是延續並略為補充舊事件對 GitHub Pages 的偏好，未推翻或修正原內容。", "evidence_turn_ids": ["u02_s07_u06"]}
+{"new_event_id": "pred_e_0349", "old_event_id": "pred_e_0328", "relation": "supplements", "reason": "新事件是在補充同一件事的後續安排，新增了要先詢問學姊小安並確認到穩定版本的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s08_u02"]}
+{"new_event_id": "pred_e_0349", "old_event_id": "pred_e_0339", "relation": "supplements", "reason": "新事件是在補充同一段「學校職涯中心」相關計畫的執行方式與時程，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s08_u02"]}
+{"new_event_id": "pred_e_0350", "old_event_id": "pred_e_0310", "relation": "supplements", "reason": "新事件延續並補充了不想只靠腦袋記作品集細節的偏好，但沒有推翻舊事件中關於 Canva 履歷的具體內容。", "evidence_turn_ids": ["u02_s08_u03"]}
+{"new_event_id": "pred_e_0352", "old_event_id": "pred_e_0312", "relation": "supplements", "reason": "新事件重述已補作品集細節，與舊事件相同且未推翻舊事件中關於 GitHub Pages 的補充。", "evidence_turn_ids": ["u02_s08_u04"]}
+{"new_event_id": "pred_e_0355", "old_event_id": "pred_e_0350", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是補充了不同相關實體，沒有推翻舊資訊。", "evidence_turn_ids": ["u02_s08_u07"]}
+{"new_event_id": "pred_e_0356", "old_event_id": "pred_e_0312", "relation": "supplements", "reason": "新事件延續舊事件，表示又補上了作品集漏掉的細節，屬於補充而非取代。", "evidence_turn_ids": ["u02_s08_u08"]}
+{"new_event_id": "pred_e_0356", "old_event_id": "pred_e_0331", "relation": "supplements", "reason": "新事件延續舊事件，都是在說已補上作品集細節，但新事件未提及舊事件中的 Canva 履歷，屬於補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s08_u08"]}
+{"new_event_id": "pred_e_0359", "old_event_id": "pred_e_0294", "relation": "supplements", "reason": "新事件延續並補充舊事件對「先用熟悉的方式」會比較安心的偏好，未推翻舊資訊。", "evidence_turn_ids": ["u02_s09_u01"]}
+{"new_event_id": "pred_e_0359", "old_event_id": "pred_e_0317", "relation": "supplements", "reason": "新事件延續舊事件對熟悉方式較安心的偏好，但未改變或推翻原本關於資料備份的內容。", "evidence_turn_ids": ["u02_s09_u01"]}
+{"new_event_id": "pred_e_0359", "old_event_id": "pred_e_0327", "relation": "supplements", "reason": "新事件只是補充偏好原因「先用熟悉的方式比較安心」，未推翻舊事件中先自己處理合作與作品集整理的內容。", "evidence_turn_ids": ["u02_s09_u01"]}
+{"new_event_id": "pred_e_0360", "old_event_id": "pred_e_0308", "relation": "supplements", "reason": "新事件補充了使用者對大學職涯公告資訊的處理方式，未推翻把公告整理到表格中的原計畫。", "evidence_turn_ids": ["u02_s09_u03"]}
+{"new_event_id": "pred_e_0360", "old_event_id": "pred_e_0322", "relation": "supplements", "reason": "新事件補充了先前補寫大學職涯公告的細節，加入了與暑期實習相關且先抄到清單裡的處理方式，未與舊事件衝突。", "evidence_turn_ids": ["u02_s09_u03"]}
+{"new_event_id": "pred_e_0360", "old_event_id": "pred_e_0329", "relation": "supplements", "reason": "新事件是在原本確認大學職涯公告整理方式之外，補充了資訊更新時會先抄錄暑期實習相關部分，並未推翻舊計畫。", "evidence_turn_ids": ["u02_s09_u03"]}
+{"new_event_id": "pred_e_0362", "old_event_id": "pred_e_0337", "relation": "supplements", "reason": "新事件與舊事件內容相近且未推翻原偏好，只是補充同一偏好表述。", "evidence_turn_ids": ["u02_s09_u05"]}
+{"new_event_id": "pred_e_0362", "old_event_id": "pred_e_0344", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅是時間較晚的相同偏好描述，屬於補充而非修正或取代。", "evidence_turn_ids": ["u02_s09_u05"]}
+{"new_event_id": "pred_e_0365", "old_event_id": "pred_e_0360", "relation": "supplements", "reason": "新事件延續相同做法，但將資訊來源補充為學姊小安，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s09_u07"]}
+{"new_event_id": "pred_e_0366", "old_event_id": "pred_e_0318", "relation": "supplements", "reason": "新事件延續原本對暑期實習時間被壓縮的擔心，並補充了額外要記下的考量項目，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s09_u08"]}
+{"new_event_id": "pred_e_0368", "old_event_id": "pred_e_0359", "relation": "supplements", "reason": "新事件是在相同偏好上補充了適用情境「作品集還在整理初版時」，未推翻舊事件。", "evidence_turn_ids": ["u02_s10_u01"]}
+{"new_event_id": "pred_e_0369", "old_event_id": "pred_e_0350", "relation": "supplements", "reason": "新事件只是補充了舊事件的描述，意思相同且沒有取代或修正舊資訊。", "evidence_turn_ids": ["u02_s10_u02"]}
+{"new_event_id": "pred_e_0371", "old_event_id": "pred_e_0331", "relation": "supplements", "reason": "新事件是在舊事件基礎上補充作品集已補上的另一處細節，沒有推翻舊資訊。", "evidence_turn_ids": ["u02_s10_u03"]}
+{"new_event_id": "pred_e_0373", "old_event_id": "pred_e_0309", "relation": "supplements", "reason": "新事件延續先前要先問學姊小安、確認六月初前能否整理成穩定版本的脈絡，並補充具體是 Canva 履歷。", "evidence_turn_ids": ["u02_s10_u05"]}
+{"new_event_id": "pred_e_0374", "old_event_id": "pred_e_0355", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是補充了相關實體資訊，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s10_u06"]}
+{"new_event_id": "pred_e_0374", "old_event_id": "pred_e_0369", "relation": "supplements", "reason": "新事件沿用原偏好並補充了 GitHub Pages 這個相關實體，沒有推翻舊事件內容。", "evidence_turn_ids": ["u02_s10_u06"]}
+{"new_event_id": "pred_e_0375", "old_event_id": "pred_e_0370", "relation": "supplements", "reason": "新事件補充了使用者上次整理卡住時漏記的細節，與舊事件內容相同主題但不衝突。", "evidence_turn_ids": ["u02_s10_u06"]}
+{"new_event_id": "pred_e_0376", "old_event_id": "pred_e_0371", "relation": "supplements", "reason": "新事件是在同一份作品集上補充另一段漏掉的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s10_u07"]}
+{"new_event_id": "pred_e_0378", "old_event_id": "pred_e_0349", "relation": "supplements", "reason": "新事件是在補充學校職涯中心資訊更新後的處理方式，與舊事件先向學姊小安確認並不衝突。", "evidence_turn_ids": ["u02_s11_u02"]}
+{"new_event_id": "pred_e_0378", "old_event_id": "pred_e_0365", "relation": "supplements", "reason": "新事件延續了把暑期實習相關資訊抄到清單的做法，只是資訊來源改成學校職涯中心，屬於補充不同來源而非取代舊事件。", "evidence_turn_ids": ["u02_s11_u02"]}
+{"new_event_id": "pred_e_0379", "old_event_id": "pred_e_0366", "relation": "supplements", "reason": "新事件只是重申舊事件中的時間疑慮，未推翻或修正原本關於地點與資料整理方式的補充內容。", "evidence_turn_ids": ["u02_s11_u03"]}
+{"new_event_id": "pred_e_0380", "old_event_id": "pred_e_0360", "relation": "supplements", "reason": "新事件補充了要記錄的內容為「公開流程資訊」，與舊事件先抄下暑期實習相關部分的計畫相近但不構成取代。", "evidence_turn_ids": ["u02_s11_u03"]}
+{"new_event_id": "pred_e_0381", "old_event_id": "pred_e_0344", "relation": "supplements", "reason": "新事件延續同一偏好，並補充了相關的 Canva 履歷 實體，未使舊事件失效。", "evidence_turn_ids": ["u02_s11_u04"]}
+{"new_event_id": "pred_e_0381", "old_event_id": "pred_e_0362", "relation": "supplements", "reason": "新事件只是延續並補充同樣偏好，用 GitHub Pages 整理，未改變舊事件內容。", "evidence_turn_ids": ["u02_s11_u04"]}
+{"new_event_id": "pred_e_0384", "old_event_id": "pred_e_0365", "relation": "supplements", "reason": "新事件延續相同做法，但將資訊來源改為 GitHub Pages，屬於對原計畫的補充而非取代或衝突。", "evidence_turn_ids": ["u02_s11_u06"]}
+{"new_event_id": "pred_e_0388", "old_event_id": "pred_e_0344", "relation": "supplements", "reason": "新事件延續並補充了使用者偏好用 GitHub Pages 整理，未推翻舊資訊。", "evidence_turn_ids": ["u02_s11_u08"]}
+{"new_event_id": "pred_e_0388", "old_event_id": "pred_e_0362", "relation": "supplements", "reason": "新事件與舊事件都是偏好用 GitHub Pages 整理，但新事件僅多了 Canva 履歷 的相關實體，屬於補充而非取代或修正。", "evidence_turn_ids": ["u02_s11_u08"]}
+{"new_event_id": "pred_e_0391", "old_event_id": "pred_e_0370", "relation": "supplements", "reason": "新事件是在舊事件所述「少記細節導致整理卡住」之後，補上作品集與學校職涯中心的漏缺，屬於補充而非取代。", "evidence_turn_ids": ["u02_s12_u02"]}
+{"new_event_id": "pred_e_0391", "old_event_id": "pred_e_0376", "relation": "supplements", "reason": "新事件同樣是在說作品集補上漏掉的細節，但補充的是不同內容（學校職涯中心那段），不會使舊事件失效。", "evidence_turn_ids": ["u02_s12_u02"]}
+{"new_event_id": "pred_e_0392", "old_event_id": "pred_e_0360", "relation": "supplements", "reason": "新事件是在原本關注大學職涯公告的基礎上，補充另一種整理方式，沒有使舊計畫失效。", "evidence_turn_ids": ["u02_s12_u03"]}
+{"new_event_id": "pred_e_0392", "old_event_id": "pred_e_0372", "relation": "supplements", "reason": "新事件延續同樣的表格與作品集規劃，但補充了要放入的內容是大學職涯公告，未與舊事件直接衝突。", "evidence_turn_ids": ["u02_s12_u03"]}
+{"new_event_id": "pred_e_0392", "old_event_id": "pred_e_0377", "relation": "supplements", "reason": "新事件是在相同目標下補充另一項要放進表格的內容，沒有否定舊事件。", "evidence_turn_ids": ["u02_s12_u03"]}
+{"new_event_id": "pred_e_0392", "old_event_id": "pred_e_0380", "relation": "supplements", "reason": "新事件只是補充把大學職涯公告整理進表格的做法，未否定舊事件要記錄暑期實習相關公開流程資訊。", "evidence_turn_ids": ["u02_s12_u03"]}
+{"new_event_id": "pred_e_0394", "old_event_id": "pred_e_0390", "relation": "supplements", "reason": "新事件沿用相同偏好，只是把漏記的細節從家裡客廳補充為 Canva 履歷，未推翻舊事件。", "evidence_turn_ids": ["u02_s12_u05"]}
+{"new_event_id": "pred_e_0395", "old_event_id": "pred_e_0376", "relation": "supplements", "reason": "新事件是在作品集補上另一處漏掉的細節，與舊事件同主題且不互相取代。", "evidence_turn_ids": ["u02_s12_u06"]}
+{"new_event_id": "pred_e_0395", "old_event_id": "pred_e_0391", "relation": "supplements", "reason": "兩則事件都在描述同一份作品集已補充細節，但新事件只是再補上 GitHub Pages 相關內容，未推翻舊事件中學校職涯中心那段。", "evidence_turn_ids": ["u02_s12_u06"]}
+{"new_event_id": "pred_e_0397", "old_event_id": "pred_e_0373", "relation": "supplements", "reason": "新事件延續了先問學姊小安、在六月初前確認到穩定版本的安排，只是把確認的內容補充為暑期實習那部分，未推翻舊事件。", "evidence_turn_ids": ["u02_s12_u08"]}
+{"new_event_id": "pred_e_0399", "old_event_id": "pred_e_0279", "relation": "supplements", "reason": "新事件延伸了在家裡客廳整理的情境，補充加入公共資訊與資料入口的記錄方式，並未否定舊偏好。", "evidence_turn_ids": ["u02_s13_u02"]}
+{"new_event_id": "pred_e_0401", "old_event_id": "pred_e_0329", "relation": "supplements", "reason": "新事件只是補充要先處理的內容，與舊事件中詢問學姊確認公告穩定版本的計畫相容，未取代或否定舊事件。", "evidence_turn_ids": ["u02_s13_u03"]}
+{"new_event_id": "pred_e_0401", "old_event_id": "pred_e_0360", "relation": "supplements", "reason": "新事件是在原本整理大學職涯公告內容的基礎上，補充這次先從該段開始，未推翻舊計畫。", "evidence_turn_ids": ["u02_s13_u03"]}
+{"new_event_id": "pred_e_0401", "old_event_id": "pred_e_0380", "relation": "supplements", "reason": "新事件只是補充說明先從大學職涯公告那段開始，與舊事件要記下暑期實習相關公開流程資訊相容且不取代。", "evidence_turn_ids": ["u02_s13_u03"]}
+{"new_event_id": "pred_e_0401", "old_event_id": "pred_e_0392", "relation": "supplements", "reason": "新事件是在原本把大學職涯公告放入表格的計畫上，補充說明先從該段開始處理，未推翻舊計畫。", "evidence_turn_ids": ["u02_s13_u03"]}
+{"new_event_id": "pred_e_0402", "old_event_id": "pred_e_0300", "relation": "supplements", "reason": "新事件是在相同想法上補充了觸發情境「今天聊到六月初的安排後」，不推翻舊事件內容。", "evidence_turn_ids": ["u02_s13_u04"]}
+{"new_event_id": "pred_e_0402", "old_event_id": "pred_e_0340", "relation": "supplements", "reason": "新事件沿用舊事件的想法，並補充了觸發情境是今天聊到六月初的安排後。", "evidence_turn_ids": ["u02_s13_u04"]}
+{"new_event_id": "pred_e_0403", "old_event_id": "pred_e_0384", "relation": "supplements", "reason": "新事件只是把資料來源從 GitHub Pages 變成 Canva 履歷，且同樣是在更新暑期實習相關清單，屬於補充另一個來源而非取代舊事件。", "evidence_turn_ids": ["u02_s13_u05"]}
+{"new_event_id": "pred_e_0403", "old_event_id": "pred_e_0398", "relation": "supplements", "reason": "新事件沿用相同做法，但把資訊來源補充為 Canva 履歷，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s13_u05"]}
+{"new_event_id": "pred_e_0404", "old_event_id": "pred_e_0366", "relation": "supplements", "reason": "新事件沿用對暑期實習時間被壓縮的擔心，並新增要記錄 GitHub Pages 的用途，屬於補充而非取代舊事件。", "evidence_turn_ids": ["u02_s13_u06"]}
+{"new_event_id": "pred_e_0405", "old_event_id": "pred_e_0400", "relation": "supplements", "reason": "新事件只是補充舊事件不喜歡 Canva 履歷的原因，未改變原本偏好。", "evidence_turn_ids": ["u02_s13_u07"]}
+{"new_event_id": "pred_e_0408", "old_event_id": "pred_e_0376", "relation": "supplements", "reason": "新事件是同一作品集補充了另一段細節，並未否定或取代舊事件內容。", "evidence_turn_ids": ["u02_s14_u01"]}
+{"new_event_id": "pred_e_0408", "old_event_id": "pred_e_0391", "relation": "supplements", "reason": "新事件是在同一份作品集上補充另一處細節，沒有推翻舊事件內容。", "evidence_turn_ids": ["u02_s14_u01"]}
+{"new_event_id": "pred_e_0408", "old_event_id": "pred_e_0395", "relation": "supplements", "reason": "新事件是在同一作品集基礎上再補上另一段細節，沒有推翻舊事件內容。", "evidence_turn_ids": ["u02_s14_u01"]}
+{"new_event_id": "pred_e_0409", "old_event_id": "pred_e_0378", "relation": "supplements", "reason": "新事件是把學校職涯中心加入作品集表格的補充規劃，和舊事件先抄暑期實習資訊到清單的做法不同但可並存。", "evidence_turn_ids": ["u02_s14_u02"]}
+{"new_event_id": "pred_e_0409", "old_event_id": "pred_e_0392", "relation": "supplements", "reason": "新事件是在原本把內容放進作品集表格以便好追的計畫上，補充加入「學校職涯中心」，未使舊事件失效。", "evidence_turn_ids": ["u02_s14_u02"]}
+{"new_event_id": "pred_e_0412", "old_event_id": "pred_e_0376", "relation": "supplements", "reason": "兩則事件都在描述作品集補充內容，且新事件只是新增補上的 Canva 履歷細節，未否定舊事件中的學姊小安段落。", "evidence_turn_ids": ["u02_s14_u05"]}
+{"new_event_id": "pred_e_0412", "old_event_id": "pred_e_0391", "relation": "supplements", "reason": "新事件是在同一份作品集上補充另一段已補上的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s14_u05"]}
+{"new_event_id": "pred_e_0412", "old_event_id": "pred_e_0395", "relation": "supplements", "reason": "新事件是在同一份作品集上新增已補上的細節，且補充的是不同內容（Canva 履歷），不會使舊事件失效。", "evidence_turn_ids": ["u02_s14_u05"]}
+{"new_event_id": "pred_e_0412", "old_event_id": "pred_e_0408", "relation": "supplements", "reason": "新事件是在同一作品集已補上的基礎上，新增補上的內容是 Canva 履歷那段，屬於補充而非取代舊內容。", "evidence_turn_ids": ["u02_s14_u05"]}
+{"new_event_id": "pred_e_0413", "old_event_id": "pred_e_0409", "relation": "supplements", "reason": "新事件是在作品集表格中新增 GitHub Pages，與舊事件加入學校職涯中心不衝突，屬於補充。", "evidence_turn_ids": ["u02_s14_u06"]}
+{"new_event_id": "pred_e_0419", "old_event_id": "pred_e_0349", "relation": "supplements", "reason": "新事件只是補充說明先從學校職涯中心那段開始，未推翻舊事件中先問學姊小安並確認到六月初前的計畫。", "evidence_turn_ids": ["u02_s15_u02"]}
+{"new_event_id": "pred_e_0419", "old_event_id": "pred_e_0378", "relation": "supplements", "reason": "新事件是在同一主題下補充先從學校職涯中心那段開始整理，未推翻舊事件中抄寫暑期實習相關內容的計畫。", "evidence_turn_ids": ["u02_s15_u02"]}
+{"new_event_id": "pred_e_0419", "old_event_id": "pred_e_0409", "relation": "supplements", "reason": "新事件是在原本將學校職涯中心放入作品集的計畫上，補充先從該段開始整理，沒有取代或否定舊計畫。", "evidence_turn_ids": ["u02_s15_u02"]}
+{"new_event_id": "pred_e_0423", "old_event_id": "pred_e_0420", "relation": "supplements", "reason": "新事件與舊事件內容相同但少了「六月初」的時間條件，屬於補充或更一般化描述，未使舊事件失效。", "evidence_turn_ids": ["u02_s15_u08"]}
+{"new_event_id": "pred_e_0425", "old_event_id": "pred_e_0409", "relation": "supplements", "reason": "新事件是在延續同一主題下補充先向學姊確認學校職涯中心內容的進度，不推翻原本要納入作品集表格的計畫。", "evidence_turn_ids": ["u02_s16_u02"]}
+{"new_event_id": "pred_e_0425", "old_event_id": "pred_e_0419", "relation": "supplements", "reason": "新事件在原本先補學校職涯中心的計畫上，補充了要先詢問學姊小安與六月初前整理成穩定版本的細節，未取代舊事件。", "evidence_turn_ids": ["u02_s16_u02"]}
+{"new_event_id": "pred_e_0427", "old_event_id": "pred_e_0391", "relation": "supplements", "reason": "新事件延續同一件作品集更新，補充了不同細節重點，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s16_u04"]}
+{"new_event_id": "pred_e_0427", "old_event_id": "pred_e_0408", "relation": "supplements", "reason": "新事件同樣是在補作品集細節，只是新增了六月初那段，未推翻舊事件提到的家裡客廳內容。", "evidence_turn_ids": ["u02_s16_u04"]}
+{"new_event_id": "pred_e_0427", "old_event_id": "pred_e_0412", "relation": "supplements", "reason": "新事件同樣是補作品集細節，但補充了特別是六月初那段，未否定舊事件中的 Canva 履歷內容。", "evidence_turn_ids": ["u02_s16_u04"]}
+{"new_event_id": "pred_e_0428", "old_event_id": "pred_e_0409", "relation": "supplements", "reason": "新事件是在原本作品集表格規劃上新增要放入的內容，並未推翻舊計畫。", "evidence_turn_ids": ["u02_s16_u05"]}
+{"new_event_id": "pred_e_0428", "old_event_id": "pred_e_0413", "relation": "supplements", "reason": "新事件是在作品集表格中再加入 Canva 履歷，與原本加入 GitHub Pages 並不衝突，屬於補充。", "evidence_turn_ids": ["u02_s16_u05"]}
+{"new_event_id": "pred_e_0430", "old_event_id": "pred_e_0426", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記作品集的偏好，並補充了另一類細節「學姊小安」，未推翻舊事件。", "evidence_turn_ids": ["u02_s16_u07"]}
+{"new_event_id": "pred_e_0431", "old_event_id": "pred_e_0395", "relation": "supplements", "reason": "新事件延續同一作品集更新，但補充的是不同細節（暑期實習那段），不使舊事件中 GitHub Pages 的修補失效。", "evidence_turn_ids": ["u02_s16_u08"]}
+{"new_event_id": "pred_e_0431", "old_event_id": "pred_e_0408", "relation": "supplements", "reason": "新事件是在同一作品集修補內容，且補充了不同細節（暑期實習那段），不使舊事件失效。", "evidence_turn_ids": ["u02_s16_u08"]}
+{"new_event_id": "pred_e_0431", "old_event_id": "pred_e_0412", "relation": "supplements", "reason": "新事件是在同一作品集中補充另一處細節，與舊事件不衝突且可並存。", "evidence_turn_ids": ["u02_s16_u08"]}
+{"new_event_id": "pred_e_0431", "old_event_id": "pred_e_0427", "relation": "supplements", "reason": "新事件是在同一作品集中補上另一段細節，與舊事件不衝突，屬於補充關係。", "evidence_turn_ids": ["u02_s16_u08"]}
+{"new_event_id": "pred_e_0433", "old_event_id": "pred_e_0305", "relation": "supplements", "reason": "新事件延續並補充了先從家裡客廳開始的通勤安排，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s17_u01"]}
+{"new_event_id": "pred_e_0433", "old_event_id": "pred_e_0319", "relation": "supplements", "reason": "新事件只是補充說明先從家裡客廳那段開始，未推翻舊事件中將臺北市資料大平臺作為相關入口的計畫。", "evidence_turn_ids": ["u02_s17_u01"]}
+{"new_event_id": "pred_e_0433", "old_event_id": "pred_e_0398", "relation": "supplements", "reason": "新事件補充了先處理家裡客廳那段的細節，未推翻舊事件中抄寫暑期實習相關內容到清單的安排。", "evidence_turn_ids": ["u02_s17_u01"]}
+{"new_event_id": "pred_e_0433", "old_event_id": "pred_e_0424", "relation": "supplements", "reason": "新事件是在原本將家裡客廳納入作品集的計畫上，補充先從客廳那段開始，未推翻舊計畫。", "evidence_turn_ids": ["u02_s17_u01"]}
+{"new_event_id": "pred_e_0435", "old_event_id": "pred_e_0398", "relation": "supplements", "reason": "新事件沿用相同做法但資料來源改為大學職涯公告，屬於對原計畫的補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s17_u03"]}
+{"new_event_id": "pred_e_0435", "old_event_id": "pred_e_0401", "relation": "supplements", "reason": "新事件是在原本先補大學職涯公告的規劃上，補充會先抄出與暑期實習相關內容，未推翻舊事件。", "evidence_turn_ids": ["u02_s17_u03"]}
+{"new_event_id": "pred_e_0435", "old_event_id": "pred_e_0403", "relation": "supplements", "reason": "新事件只是把資訊來源補充為大學職涯公告，與舊事件的暑期實習抄到清單的計畫不衝突。", "evidence_turn_ids": ["u02_s17_u03"]}
+{"new_event_id": "pred_e_0436", "old_event_id": "pred_e_0342", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是補充時間標記不影響原資訊。", "evidence_turn_ids": ["u02_s17_u04"]}
+{"new_event_id": "pred_e_0437", "old_event_id": "pred_e_0361", "relation": "supersedes", "reason": "新事件保留六月初需提前確認時間限制，並移除了對暑期實習時間被壓縮的額外說明，較新的表述可視為更新後內容。", "evidence_turn_ids": ["u02_s17_u04"]}
+{"new_event_id": "pred_e_0438", "old_event_id": "pred_e_0400", "relation": "supplements", "reason": "新事件與舊事件內容一致，僅以不同說法重述偏好，未形成取代或修正關係。", "evidence_turn_ids": ["u02_s17_u05"]}
+{"new_event_id": "pred_e_0440", "old_event_id": "pred_e_0402", "relation": "supplements", "reason": "新事件延續了對暑期實習與資料攜帶的思考，並補充了正在關注 GitHub Pages 的安排，未推翻舊事件。", "evidence_turn_ids": ["u02_s17_u06"]}
+{"new_event_id": "pred_e_0440", "old_event_id": "pred_e_0407", "relation": "supplements", "reason": "新事件在原本對暑期實習需先想好資料帶過去的基礎上，補充了正在關注 GitHub Pages 的安排，未使舊事件失效。", "evidence_turn_ids": ["u02_s17_u06"]}
+{"new_event_id": "pred_e_0440", "old_event_id": "pred_e_0434", "relation": "supplements", "reason": "新事件補充了關注的安排變成 GitHub Pages，且保留了暑期實習與資料帶過去方式的想法，未使舊事件失效。", "evidence_turn_ids": ["u02_s17_u06"]}
+{"new_event_id": "pred_e_0441", "old_event_id": "pred_e_0435", "relation": "supplements", "reason": "新事件延續把暑期實習相關資訊抄到清單的做法，只是將資訊來源補充為學姊小安，未使舊事件失效。", "evidence_turn_ids": ["u02_s17_u07"]}
+{"new_event_id": "pred_e_0442", "old_event_id": "pred_e_0379", "relation": "supplements", "reason": "新事件是在原本對暑期實習時間的擔心之外，補充了還要考慮地點與資料整理方式，未推翻舊事件。", "evidence_turn_ids": ["u02_s17_u08"]}
+{"new_event_id": "pred_e_0442", "old_event_id": "pred_e_0386", "relation": "supplements", "reason": "新事件是在原本擔心暑期實習時間受壓縮之外，補充了需要同時考慮的其他事項，並未否定舊事件。", "evidence_turn_ids": ["u02_s17_u08"]}
+{"new_event_id": "pred_e_0443", "old_event_id": "pred_e_0433", "relation": "supplements", "reason": "新事件是在原本先從家裡客廳開始補的計畫上，補充了先詢問學姊小安與六月初前確認穩定版本的細節，未推翻舊事件。", "evidence_turn_ids": ["u02_s18_u01"]}
+{"new_event_id": "pred_e_0444", "old_event_id": "pred_e_0430", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記作品集的偏好，並補充了另一類細節「學校職涯中心」，不與舊事件衝突。", "evidence_turn_ids": ["u02_s18_u02"]}
+{"new_event_id": "pred_e_0445", "old_event_id": "pred_e_0408", "relation": "supplements", "reason": "新事件是在同一作品集上再補上一處細節，屬於補充而非取代舊事件。", "evidence_turn_ids": ["u02_s18_u03"]}
+{"new_event_id": "pred_e_0445", "old_event_id": "pred_e_0412", "relation": "supplements", "reason": "新事件是對作品集已補上的內容再增加一處細節，未否定舊事件。", "evidence_turn_ids": ["u02_s18_u03"]}
+{"new_event_id": "pred_e_0445", "old_event_id": "pred_e_0427", "relation": "supplements", "reason": "新事件延續同一作品集補充動作，只是增加了另一段已補上的細節，未推翻舊事件。", "evidence_turn_ids": ["u02_s18_u03"]}
+{"new_event_id": "pred_e_0445", "old_event_id": "pred_e_0431", "relation": "supplements", "reason": "新事件同樣是在說作品集補上細節，但補的是另一段內容，未推翻舊事件。", "evidence_turn_ids": ["u02_s18_u03"]}
+{"new_event_id": "pred_e_0447", "old_event_id": "pred_e_0429", "relation": "supplements", "reason": "新事件是同樣要先問學姊小安、同樣以六月初前確認穩定版本的另一項內容，屬於補充不同主題而非取代或矛盾。", "evidence_turn_ids": ["u02_s18_u05"]}
+{"new_event_id": "pred_e_0448", "old_event_id": "pred_e_0430", "relation": "supplements", "reason": "新事件延續「不想再只靠腦袋記作品集」的偏好，並補充了另一個具體細節 GitHub Pages，未否定舊事件內容。", "evidence_turn_ids": ["u02_s18_u06"]}
+{"new_event_id": "pred_e_0448", "old_event_id": "pred_e_0444", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記作品集的偏好，並補充指出另一個細節來源 GitHub Pages，未推翻舊事件。", "evidence_turn_ids": ["u02_s18_u06"]}
+{"new_event_id": "pred_e_0449", "old_event_id": "pred_e_0412", "relation": "supplements", "reason": "新事件是在相同作品集修補內容，且補充了不同段落的細節，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s18_u07"]}
+{"new_event_id": "pred_e_0449", "old_event_id": "pred_e_0427", "relation": "supplements", "reason": "新事件是在同一作品集中補上另一段細節，與舊事件不衝突，屬於補充資訊。", "evidence_turn_ids": ["u02_s18_u07"]}
+{"new_event_id": "pred_e_0449", "old_event_id": "pred_e_0431", "relation": "supplements", "reason": "新事件同樣是在說作品集已補上細節，但補的是不同段落，屬於補充而非取代或修正舊事件。", "evidence_turn_ids": ["u02_s18_u07"]}
+{"new_event_id": "pred_e_0449", "old_event_id": "pred_e_0445", "relation": "supplements", "reason": "兩則事件都在描述作品集已補上細節，但新增的是不同段落內容，屬於補充而非取代。", "evidence_turn_ids": ["u02_s18_u07"]}
+{"new_event_id": "pred_e_0450", "old_event_id": "pred_e_0446", "relation": "supplements", "reason": "新事件是在同一主題下補充表格應加入的內容，未否定舊事件的六月初安排。", "evidence_turn_ids": ["u02_s18_u08"]}
+{"new_event_id": "pred_e_0451", "old_event_id": "pred_e_0425", "relation": "supplements", "reason": "新事件是在原本確認學校職涯中心資訊的脈絡下，補充會把更新內容抄到清單裡，未推翻舊計畫。", "evidence_turn_ids": ["u02_s19_u02"]}
+{"new_event_id": "pred_e_0453", "old_event_id": "pred_e_0435", "relation": "supplements", "reason": "新事件補充了要記錄的大學職涯公告內容範圍，與舊事件的先抄到清單裡並不衝突。", "evidence_turn_ids": ["u02_s19_u03"]}
+{"new_event_id": "pred_e_0455", "old_event_id": "pred_e_0438", "relation": "supplements", "reason": "新事件只補充了對 Canva 履歷容易散掉的看法，未推翻舊事件偏好用 GitHub Pages 的內容。", "evidence_turn_ids": ["u02_s19_u04"]}
+{"new_event_id": "pred_e_0460", "old_event_id": "pred_e_0426", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記作品集的偏好，並補充了另一類細節「家裡客廳」，未推翻舊事件。", "evidence_turn_ids": ["u02_s20_u01"]}
+{"new_event_id": "pred_e_0460", "old_event_id": "pred_e_0430", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記作品集的偏好，並補充了另一個細節例子，沒有取代或否定舊事件。", "evidence_turn_ids": ["u02_s20_u01"]}
+{"new_event_id": "pred_e_0461", "old_event_id": "pred_e_0427", "relation": "supplements", "reason": "新事件是在相同作品集補充另一段細節，未否定舊事件內容。", "evidence_turn_ids": ["u02_s20_u02"]}
+{"new_event_id": "pred_e_0461", "old_event_id": "pred_e_0431", "relation": "supplements", "reason": "新事件同樣是在說作品集補充細節，但補的是不同內容，屬於對舊事件的補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s20_u02"]}
+{"new_event_id": "pred_e_0461", "old_event_id": "pred_e_0449", "relation": "supplements", "reason": "新事件同樣是在補作品集細節，但補充的是不同段落，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s20_u02"]}
+{"new_event_id": "pred_e_0462", "old_event_id": "pred_e_0435", "relation": "supplements", "reason": "新事件補充了使用者對大學職涯公告的整理方式，從抄到清單改為放進表格，未直接否定舊計畫。", "evidence_turn_ids": ["u02_s20_u03"]}
+{"new_event_id": "pred_e_0462", "old_event_id": "pred_e_0453", "relation": "supplements", "reason": "新事件延續了同樣主題的大學職涯公告整理，補充了要放進表格並用於作品集，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s20_u03"]}
+{"new_event_id": "pred_e_0464", "old_event_id": "pred_e_0444", "relation": "supplements", "reason": "新事件延續不靠腦袋記作品集的偏好，並補充具體細節從學校職涯中心改為 Canva 履歷，未使舊資訊失效。", "evidence_turn_ids": ["u02_s20_u05"]}
+{"new_event_id": "pred_e_0464", "old_event_id": "pred_e_0448", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記作品集的偏好，並補充另一個細節項目 Canva 履歷，未推翻舊事件。", "evidence_turn_ids": ["u02_s20_u05"]}
+{"new_event_id": "pred_e_0464", "old_event_id": "pred_e_0460", "relation": "supplements", "reason": "新事件延伸同一偏好，將「家裡客廳」的細節補充為「Canva 履歷」這類細節，未推翻舊事件。", "evidence_turn_ids": ["u02_s20_u05"]}
+{"new_event_id": "pred_e_0465", "old_event_id": "pred_e_0431", "relation": "supplements", "reason": "新事件延續補作品集細節的進度，並補充了不同段落（GitHub Pages），不與舊事件衝突。", "evidence_turn_ids": ["u02_s20_u06"]}
+{"new_event_id": "pred_e_0465", "old_event_id": "pred_e_0445", "relation": "supplements", "reason": "新事件是在作品集補上另一處細節，與舊事件不衝突且屬於額外補充。", "evidence_turn_ids": ["u02_s20_u06"]}
+{"new_event_id": "pred_e_0465", "old_event_id": "pred_e_0449", "relation": "supplements", "reason": "新事件是在同一作品集補上不同細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s20_u06"]}
+{"new_event_id": "pred_e_0465", "old_event_id": "pred_e_0461", "relation": "supplements", "reason": "新事件延續同一作品集修改，補充了另一段漏掉的細節，並未否定舊事件內容。", "evidence_turn_ids": ["u02_s20_u06"]}
+{"new_event_id": "pred_e_0466", "old_event_id": "pred_e_0462", "relation": "supplements", "reason": "新事件是在原本把內容放進表格以利作品集整理的計畫上，補充要加入學姊小安，沒有使舊計畫失效。", "evidence_turn_ids": ["u02_s20_u07"]}
+{"new_event_id": "pred_e_0467", "old_event_id": "pred_e_0414", "relation": "supplements", "reason": "新事件延續原本要在六月初前向學姊小安確認的計畫，只是補充要確認的是暑期實習部分。", "evidence_turn_ids": ["u02_s20_u08"]}
+{"new_event_id": "pred_e_0469", "old_event_id": "pred_e_0442", "relation": "supplements", "reason": "新事件補充了暑期實習中對時間的擔憂，並未推翻原本同時考慮時間、地點和資料整理方式的記錄。", "evidence_turn_ids": ["u02_s21_u02"]}
+{"new_event_id": "pred_e_0469", "old_event_id": "pred_e_0452", "relation": "supplements", "reason": "新事件與舊事件內容相同，只是再次表達相同擔憂，沒有修正或取代關係。", "evidence_turn_ids": ["u02_s21_u02"]}
+{"new_event_id": "pred_e_0470", "old_event_id": "pred_e_0398", "relation": "supplements", "reason": "新事件補充了家裡客廳相關資訊的具體來源與記錄方式，未推翻舊事件中先抄與暑期實習有關內容的計畫。", "evidence_turn_ids": ["u02_s21_u02"]}
+{"new_event_id": "pred_e_0470", "old_event_id": "pred_e_0433", "relation": "supplements", "reason": "新事件是在家裡客廳相關計畫上補充加入公共資訊 grounding 入口，未否定舊事件的先從客廳開始補。", "evidence_turn_ids": ["u02_s21_u02"]}
+{"new_event_id": "pred_e_0470", "old_event_id": "pred_e_0443", "relation": "supplements", "reason": "新事件是在補充家裡客廳相關的資訊來源與做法，沒有取代或否定先前要先問學姊小安的計畫。", "evidence_turn_ids": ["u02_s21_u02"]}
+{"new_event_id": "pred_e_0471", "old_event_id": "pred_e_0454", "relation": "supplements", "reason": "新事件延續原本偏好使用 GitHub Pages，並額外補充了整理內容的範圍，沒有推翻舊資訊。", "evidence_turn_ids": ["u02_s21_u03"]}
+{"new_event_id": "pred_e_0472", "old_event_id": "pred_e_0455", "relation": "supplements", "reason": "新事件是在同一主題上補充說明，新增了「不適合持續整理」的看法，未推翻舊事件。", "evidence_turn_ids": ["u02_s21_u03"]}
+{"new_event_id": "pred_e_0473", "old_event_id": "pred_e_0435", "relation": "supplements", "reason": "新事件是在原本會抄錄大學職涯公告相關內容的計畫上，補充這次先從公告那段開始，未否定舊計畫。", "evidence_turn_ids": ["u02_s21_u03"]}
+{"new_event_id": "pred_e_0473", "old_event_id": "pred_e_0453", "relation": "supplements", "reason": "新事件是在原本記錄大學職涯公告相關內容的基礎上補充進一步處理方向，未取代或否定舊計畫。", "evidence_turn_ids": ["u02_s21_u03"]}
+{"new_event_id": "pred_e_0473", "old_event_id": "pred_e_0462", "relation": "supplements", "reason": "新事件是在原本把大學職涯公告放進表格的計畫上，補充先從該段開始進行，沒有推翻舊計畫。", "evidence_turn_ids": ["u02_s21_u03"]}
+{"new_event_id": "pred_e_0474", "old_event_id": "pred_e_0457", "relation": "supplements", "reason": "新事件延續同樣的處理方式，只是把資訊來源改成 Canva 履歷，屬於補充而非取代舊事件。", "evidence_turn_ids": ["u02_s21_u05"]}
+{"new_event_id": "pred_e_0477", "old_event_id": "pred_e_0407", "relation": "supplements", "reason": "新事件重述並補充了相同的暑期實習想法，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s21_u08"]}
+{"new_event_id": "pred_e_0478", "old_event_id": "pred_e_0438", "relation": "supersedes", "reason": "新事件明確表示主要整理工具改成 GitHub Pages，屬於對舊偏好的更新取代。", "evidence_turn_ids": ["u02_s22_u01"]}
+{"new_event_id": "pred_e_0478", "old_event_id": "pred_e_0448", "relation": "supersedes", "reason": "新事件明確表示主要整理工具改成 GitHub Pages，且不再照舊前面的安排，屬於更新原本不想只靠腦袋記作品集的做法。", "evidence_turn_ids": ["u02_s22_u01"]}
+{"new_event_id": "pred_e_0478", "old_event_id": "pred_e_0454", "relation": "supersedes", "reason": "新事件明確表示整理工具改成 GitHub Pages，屬於對舊偏好的更新取代。", "evidence_turn_ids": ["u02_s22_u01"]}
+{"new_event_id": "pred_e_0478", "old_event_id": "pred_e_0471", "relation": "supersedes", "reason": "新事件明確表示整理工具「改成 GitHub Pages」且「不再照舊前面的安排」，因此取代舊有偏好。", "evidence_turn_ids": ["u02_s22_u01"]}
+{"new_event_id": "pred_e_0479", "old_event_id": "pred_e_0451", "relation": "supplements", "reason": "新事件是在既有關注學校職涯中心的基礎上，補充把它放進作品集表格的做法，沒有否定舊計畫。", "evidence_turn_ids": ["u02_s22_u02"]}
+{"new_event_id": "pred_e_0479", "old_event_id": "pred_e_0462", "relation": "supplements", "reason": "新事件是在原本把公告放入作品集表格的計畫上，補充加入學校職涯中心，沒有使舊計畫失效。", "evidence_turn_ids": ["u02_s22_u02"]}
+{"new_event_id": "pred_e_0479", "old_event_id": "pred_e_0466", "relation": "supplements", "reason": "新事件是在原本把內容放進作品集表格的計畫上，補充加入另一個對象，並未否定舊事件。", "evidence_turn_ids": ["u02_s22_u02"]}
+{"new_event_id": "pred_e_0479", "old_event_id": "pred_e_0468", "relation": "supplements", "reason": "新事件是在補充把學校職涯中心加入作品集表格，與舊事件的週末整理地點安排不衝突。", "evidence_turn_ids": ["u02_s22_u02"]}
+{"new_event_id": "pred_e_0482", "old_event_id": "pred_e_0445", "relation": "supplements", "reason": "新事件同樣是在說作品集補上細節，但補的是不同段落，屬於對舊事件的補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s22_u05"]}
+{"new_event_id": "pred_e_0482", "old_event_id": "pred_e_0449", "relation": "supplements", "reason": "新事件延續同一主題，表示在作品集裡又補上了不同細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s22_u05"]}
+{"new_event_id": "pred_e_0482", "old_event_id": "pred_e_0461", "relation": "supplements", "reason": "新事件是在同一作品集修補內容，但補的是不同段落，屬於對舊事件的補充而非取代或衝突。", "evidence_turn_ids": ["u02_s22_u05"]}
+{"new_event_id": "pred_e_0482", "old_event_id": "pred_e_0465", "relation": "supplements", "reason": "兩者都在描述補作品集細節，但新事件補充的是不同段落（Canva 履歷），不會使舊事件失效。", "evidence_turn_ids": ["u02_s22_u05"]}
+{"new_event_id": "pred_e_0483", "old_event_id": "pred_e_0466", "relation": "supplements", "reason": "新事件是在原本作品集表格規劃上新增 GitHub Pages，屬於補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s22_u06"]}
+{"new_event_id": "pred_e_0483", "old_event_id": "pred_e_0479", "relation": "supplements", "reason": "新事件是在作品集表格中新增 GitHub Pages，與舊事件加入學校職涯中心屬於不同補充內容，彼此不衝突。", "evidence_turn_ids": ["u02_s22_u06"]}
+{"new_event_id": "pred_e_0484", "old_event_id": "pred_e_0467", "relation": "supplements", "reason": "新事件與舊事件主題相同，且只是補充了對學姊小安在六月初前整理成穩定版本的確認，未推翻原內容。", "evidence_turn_ids": ["u02_s22_u07"]}
+{"new_event_id": "pred_e_0484", "old_event_id": "pred_e_0480", "relation": "supplements", "reason": "新事件與舊事件主題相同，且只是補充說明「學姊小安那部分」能否在六月初前整理成穩定版本，未推翻舊資訊。", "evidence_turn_ids": ["u02_s22_u07"]}
+{"new_event_id": "pred_e_0485", "old_event_id": "pred_e_0481", "relation": "supplements", "reason": "新事件延續原本不想只靠腦袋記作品集細節的偏好，並補充另一類細節「暑期實習」，不與舊事件衝突。", "evidence_turn_ids": ["u02_s22_u08"]}
+{"new_event_id": "pred_e_0486", "old_event_id": "pred_e_0459", "relation": "supersedes", "reason": "新事件明確表示把下個月計畫改成先完成作品集檢查表，前面安排先不照舊，取代了原本先從暑期實習開始的計畫。", "evidence_turn_ids": ["u02_s23_u01"]}
+{"new_event_id": "pred_e_0488", "old_event_id": "pred_e_0425", "relation": "supplements", "reason": "新事件只是補充先從學校職涯中心那段開始處理，沒有推翻舊事件中先問學姊小安與六月初前整理成穩定版本的計畫。", "evidence_turn_ids": ["u02_s23_u02"]}
+{"new_event_id": "pred_e_0488", "old_event_id": "pred_e_0451", "relation": "supplements", "reason": "新事件是在相同主題下補充具體處理方式，並未推翻舊事件的做法。", "evidence_turn_ids": ["u02_s23_u02"]}
+{"new_event_id": "pred_e_0488", "old_event_id": "pred_e_0468", "relation": "supplements", "reason": "新事件是在原本以學校職涯中心為安排的基礎上補充先從該段開始，未推翻舊計畫。", "evidence_turn_ids": ["u02_s23_u02"]}
+{"new_event_id": "pred_e_0488", "old_event_id": "pred_e_0479", "relation": "supplements", "reason": "新事件補充了要先從學校職涯中心那段開始處理，屬於舊有把學校職涯中心納入作品集表格計畫的細化。", "evidence_turn_ids": ["u02_s23_u02"]}
+{"new_event_id": "pred_e_0489", "old_event_id": "pred_e_0440", "relation": "supplements", "reason": "新事件延續並補充舊事件對暑期實習資料攜帶方式的思考，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s23_u03"]}
+{"new_event_id": "pred_e_0491", "old_event_id": "pred_e_0436", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅是後續再次提及並補充相同擔憂。", "evidence_turn_ids": ["u02_s23_u05"]}
+{"new_event_id": "pred_e_0494", "old_event_id": "pred_e_0477", "relation": "supplements", "reason": "新事件是在相同觀點上補充了來源背景，並未推翻舊事件內容。", "evidence_turn_ids": ["u02_s23_u07"]}
+{"new_event_id": "pred_e_0494", "old_event_id": "pred_e_0489", "relation": "supplements", "reason": "新事件只是補充來源是學姊小安的安排，沒有推翻舊事件內容。", "evidence_turn_ids": ["u02_s23_u07"]}
+{"new_event_id": "pred_e_0496", "old_event_id": "pred_e_0488", "relation": "supersedes", "reason": "新事件明確表示安排已改成以學校職涯中心這個版本為準，取代了先前先從學校職涯中心開始補的舊規劃。", "evidence_turn_ids": ["u02_s24_u01"]}
+{"new_event_id": "pred_e_0498", "old_event_id": "pred_e_0464", "relation": "supplements", "reason": "新事件延續不想只靠腦袋記作品集的偏好，並補充另一類細節「大學職涯公告」，未推翻舊事件。", "evidence_turn_ids": ["u02_s24_u03"]}
+{"new_event_id": "pred_e_0499", "old_event_id": "pred_e_0461", "relation": "supplements", "reason": "兩者都在描述作品集已補上細節，但新事件只是補充特別是六月初那段，未推翻舊事件中學校職涯中心那段的內容。", "evidence_turn_ids": ["u02_s24_u04"]}
+{"new_event_id": "pred_e_0499", "old_event_id": "pred_e_0465", "relation": "supplements", "reason": "新事件仍是在描述作品集補細節，只是補充了特別針對六月初那段，沒有推翻舊事件內容。", "evidence_turn_ids": ["u02_s24_u04"]}
+{"new_event_id": "pred_e_0500", "old_event_id": "pred_e_0479", "relation": "supplements", "reason": "新事件是補充加入 Canva 履歷到表格，與舊事件要納入學校職涯中心並不衝突。", "evidence_turn_ids": ["u02_s24_u05"]}
+{"new_event_id": "pred_e_0500", "old_event_id": "pred_e_0483", "relation": "supplements", "reason": "新事件只是補充另外想放進表格的項目，沒有否定或取代舊事件內容。", "evidence_turn_ids": ["u02_s24_u05"]}
+{"new_event_id": "pred_e_0501", "old_event_id": "pred_e_0484", "relation": "supplements", "reason": "新事件與舊事件同樣是先詢問學姊小安、確認六月初前能否整理成穩定版本，並補充了具體項目是 GitHub Pages。", "evidence_turn_ids": ["u02_s24_u06"]}
+{"new_event_id": "pred_e_0502", "old_event_id": "pred_e_0498", "relation": "supplements", "reason": "新事件延續同樣偏好，但將原本舉例的大學職涯公告補充為學姊小安這類細節，未使舊事件失效。", "evidence_turn_ids": ["u02_s24_u07"]}
+{"new_event_id": "pred_e_0503", "old_event_id": "pred_e_0461", "relation": "supplements", "reason": "新事件延續同一作品集更新，補上另一段漏掉的細節，未否定舊事件內容。", "evidence_turn_ids": ["u02_s24_u08"]}
+{"new_event_id": "pred_e_0503", "old_event_id": "pred_e_0465", "relation": "supplements", "reason": "新事件是在同一作品集上補充另一段漏掉的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s24_u08"]}
+{"new_event_id": "pred_e_0503", "old_event_id": "pred_e_0482", "relation": "supplements", "reason": "新事件是在同一作品集上補上另一處細節，與舊事件提到的 Canva 履歷不衝突，屬於補充。", "evidence_turn_ids": ["u02_s24_u08"]}
+{"new_event_id": "pred_e_0503", "old_event_id": "pred_e_0499", "relation": "supplements", "reason": "兩者都在說已補上作品集細節，只是新事件補充了不同的內容段落，彼此不衝突。", "evidence_turn_ids": ["u02_s24_u08"]}
+{"new_event_id": "pred_e_0505", "old_event_id": "pred_e_0473", "relation": "supplements", "reason": "新事件是在原本先從大學職涯公告開始補的計畫上，補充了具體會先抄下與暑期實習相關的內容，未否定舊事件。", "evidence_turn_ids": ["u02_s25_u03"]}
+{"new_event_id": "pred_e_0505", "old_event_id": "pred_e_0474", "relation": "supplements", "reason": "新事件只是把可更新來源從 Canva 履歷補充為大學職涯公告，保留相同的暑期實習抄錄計畫，未推翻舊事件。", "evidence_turn_ids": ["u02_s25_u03"]}
+{"new_event_id": "pred_e_0506", "old_event_id": "pred_e_0437", "relation": "supplements", "reason": "新事件延續原本要記下六月初時間限制的內容，並補充了原因是擔心暑期實習時間會被壓縮。", "evidence_turn_ids": ["u02_s25_u04"]}
+{"new_event_id": "pred_e_0509", "old_event_id": "pred_e_0442", "relation": "supplements", "reason": "新事件延續舊事件內容，並補充了擔心實習時間會被壓縮的原因，未改變原有約束。", "evidence_turn_ids": ["u02_s25_u08"]}
+{"new_event_id": "pred_e_0509", "old_event_id": "pred_e_0469", "relation": "supplements", "reason": "新事件在原本擔心暑期實習時間被壓縮之外，補充了需要同時考慮的地點與資料整理方式。", "evidence_turn_ids": ["u02_s25_u08"]}
+{"new_event_id": "pred_e_0509", "old_event_id": "pred_e_0506", "relation": "supplements", "reason": "新事件在原本擔心暑期實習時間被壓縮的基礎上，補充了還要同時考慮地點和資料整理方式，未推翻舊資訊。", "evidence_turn_ids": ["u02_s25_u08"]}
+{"new_event_id": "pred_e_0512", "old_event_id": "pred_e_0465", "relation": "supplements", "reason": "新事件是在同一作品集修補內容，但補充的是不同段落，未推翻舊事件。", "evidence_turn_ids": ["u02_s26_u03"]}
+{"new_event_id": "pred_e_0512", "old_event_id": "pred_e_0482", "relation": "supplements", "reason": "新事件延續同一作品集補充完成的脈絡，只是新增補上的內容不同，未推翻舊事件。", "evidence_turn_ids": ["u02_s26_u03"]}
+{"new_event_id": "pred_e_0512", "old_event_id": "pred_e_0499", "relation": "supplements", "reason": "新事件延續同一件作品集補充完成的內容，只是補充了不同段落，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s26_u03"]}
+{"new_event_id": "pred_e_0513", "old_event_id": "pred_e_0483", "relation": "supplements", "reason": "新事件是在原本作品集表格規劃上補充加入六月初，未否定原先把 GitHub Pages 也放進表格的計畫。", "evidence_turn_ids": ["u02_s26_u04"]}
+{"new_event_id": "pred_e_0513", "old_event_id": "pred_e_0500", "relation": "supplements", "reason": "新事件是在原本用表格追蹤作品集的想法上，補充加入六月初，兩者不衝突且可並存。", "evidence_turn_ids": ["u02_s26_u04"]}
+{"new_event_id": "pred_e_0514", "old_event_id": "pred_e_0484", "relation": "supplements", "reason": "新事件補充了要詢問學姊小安的具體內容是 Canva 履歷整理到穩定版本，未推翻舊事件的時間與詢問方向。", "evidence_turn_ids": ["u02_s26_u05"]}
+{"new_event_id": "pred_e_0516", "old_event_id": "pred_e_0482", "relation": "supplements", "reason": "新事件延續同一作品集完成狀態，但補充了不同段落的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s26_u07"]}
+{"new_event_id": "pred_e_0516", "old_event_id": "pred_e_0499", "relation": "supplements", "reason": "新事件是在同一作品集補上另一段細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s26_u07"]}
+{"new_event_id": "pred_e_0516", "old_event_id": "pred_e_0503", "relation": "supplements", "reason": "新事件是在同一作品集更新中補充另一段已補上的細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s26_u07"]}
+{"new_event_id": "pred_e_0516", "old_event_id": "pred_e_0512", "relation": "supplements", "reason": "新事件是在同一作品集完成補充，但補上的細節不同，屬於對舊事件的補充而非取代或矛盾。", "evidence_turn_ids": ["u02_s26_u07"]}
+{"new_event_id": "pred_e_0517", "old_event_id": "pred_e_0513", "relation": "supplements", "reason": "新事件是在同一表格與作品集規劃上新增暑期實習，未推翻舊事件中加入六月初的想法。", "evidence_turn_ids": ["u02_s26_u08"]}
+{"new_event_id": "pred_e_0519", "old_event_id": "pred_e_0508", "relation": "supplements", "reason": "新事件延續相同做法，但把資訊來源補充為學校職涯中心，未否定舊計畫。", "evidence_turn_ids": ["u02_s27_u02"]}
+{"new_event_id": "pred_e_0521", "old_event_id": "pred_e_0487", "relation": "supplements", "reason": "新事件只是補充相同偏好表述，未改變舊事件內容。", "evidence_turn_ids": ["u02_s27_u04"]}
+{"new_event_id": "pred_e_0523", "old_event_id": "pred_e_0477", "relation": "supplements", "reason": "新事件延續原本對暑期實習與資料準備的看法，並補充了 Canva 履歷，未使舊事件失效。", "evidence_turn_ids": ["u02_s27_u05"]}
+{"new_event_id": "pred_e_0523", "old_event_id": "pred_e_0489", "relation": "supplements", "reason": "新事件與舊事件內容相同，僅補充為使用者本人認為，未推翻舊事件。", "evidence_turn_ids": ["u02_s27_u05"]}
+{"new_event_id": "pred_e_0524", "old_event_id": "pred_e_0508", "relation": "supplements", "reason": "兩者都是先把與暑期實習有關的部分抄到清單裡，但新事件只是補充資訊來源改為 GitHub Pages，未推翻舊事件。", "evidence_turn_ids": ["u02_s27_u06"]}
+{"new_event_id": "pred_e_0525", "old_event_id": "pred_e_0506", "relation": "supplements", "reason": "新事件補充了需要一起確認的人是學姊小安，且與原本擔心暑期實習時間被壓縮的背景相同，沒有推翻舊資訊。", "evidence_turn_ids": ["u02_s27_u07"]}
+{"new_event_id": "pred_e_0528", "old_event_id": "pred_e_0499", "relation": "supplements", "reason": "新事件是在相同作品集修改基礎上再補充另一段細節，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s28_u02"]}
+{"new_event_id": "pred_e_0528", "old_event_id": "pred_e_0503", "relation": "supplements", "reason": "新事件同樣是在說作品集已補上細節，且新增了「學校職涯中心」那段的補充，並未否定舊事件中暑期實習的內容。", "evidence_turn_ids": ["u02_s28_u02"]}
+{"new_event_id": "pred_e_0528", "old_event_id": "pred_e_0512", "relation": "supplements", "reason": "新事件延續同一件作品集補充內容，新增了學校職涯中心那段細節，未推翻舊事件。", "evidence_turn_ids": ["u02_s28_u02"]}
+{"new_event_id": "pred_e_0528", "old_event_id": "pred_e_0516", "relation": "supplements", "reason": "兩則事件都在說作品集補上漏掉的細節，但新事件新增的是學校職涯中心那段，未推翻舊事件中學姊小安那段的補充內容。", "evidence_turn_ids": ["u02_s28_u02"]}
+{"new_event_id": "pred_e_0529", "old_event_id": "pred_e_0505", "relation": "supplements", "reason": "新事件只是補充使用者對大學職涯公告的另一個處理方式，並未推翻先前抄錄暑期實習資訊到清單的計畫。", "evidence_turn_ids": ["u02_s28_u03"]}
+{"new_event_id": "pred_e_0532", "old_event_id": "pred_e_0503", "relation": "supplements", "reason": "新事件是在同一件作品集整理上的新增細節，補充了 GitHub Pages 那段，沒有推翻舊事件內容。", "evidence_turn_ids": ["u02_s28_u06"]}
+{"new_event_id": "pred_e_0532", "old_event_id": "pred_e_0512", "relation": "supplements", "reason": "新事件是在相同作品集修補完成的基礎上，補充另一段漏掉的細節，未否定舊事件內容。", "evidence_turn_ids": ["u02_s28_u06"]}
+{"new_event_id": "pred_e_0532", "old_event_id": "pred_e_0516", "relation": "supplements", "reason": "新事件是在同一份作品集上補充另一段漏掉的細節，未否定舊事件內容。", "evidence_turn_ids": ["u02_s28_u06"]}
+{"new_event_id": "pred_e_0532", "old_event_id": "pred_e_0528", "relation": "supplements", "reason": "兩事件都在描述同一份作品集已補上細節，但新事件只是新增 GitHub Pages 那段，未推翻舊事件內容。", "evidence_turn_ids": ["u02_s28_u06"]}
+{"new_event_id": "pred_e_0533", "old_event_id": "pred_e_0513", "relation": "supplements", "reason": "新事件是在原本把內容放進表格、讓作品集更好追蹤的想法上，補充加入了學姊小安，未推翻舊事件。", "evidence_turn_ids": ["u02_s28_u07"]}
+{"new_event_id": "pred_e_0533", "old_event_id": "pred_e_0517", "relation": "supplements", "reason": "新事件是在原本把暑期實習放進表格的想法之外，另外補充也要把學姊小安放進表格，兩者主題相近但不互相否定。", "evidence_turn_ids": ["u02_s28_u07"]}
+{"new_event_id": "pred_e_0533", "old_event_id": "pred_e_0529", "relation": "supplements", "reason": "新事件是在同一個表格與作品集追蹤脈絡下新增「學姊小安」，屬於補充而非取代或修正舊事件。", "evidence_turn_ids": ["u02_s28_u07"]}
+{"new_event_id": "pred_e_0538", "old_event_id": "pred_e_0462", "relation": "supplements", "reason": "新事件只是補充說明先從大學職涯公告那段開始，未否定或取代原本把公告放進表格以利整理作品集的計畫。", "evidence_turn_ids": ["u02_s29_u03"]}
+{"new_event_id": "pred_e_0538", "old_event_id": "pred_e_0505", "relation": "supplements", "reason": "新事件補充了使用者先從大學職涯公告那段開始處理，與舊事件計畫抄寫暑期實習相關內容不衝突。", "evidence_turn_ids": ["u02_s29_u03"]}
+{"new_event_id": "pred_e_0538", "old_event_id": "pred_e_0529", "relation": "supplements", "reason": "新事件是在補充要先從大學職涯公告開始處理，與舊事件把大學職涯公告放進表格的規劃相容，未推翻原內容。", "evidence_turn_ids": ["u02_s29_u03"]}
+{"new_event_id": "pred_e_0540", "old_event_id": "pred_e_0525", "relation": "supplements", "reason": "新事件同樣圍繞暑期實習時間被壓縮的擔心，但補充的是另一個要先記下的事項，未否定舊事件內容。", "evidence_turn_ids": ["u02_s29_u06"]}
+{"new_event_id": "pred_e_0542", "old_event_id": "pred_e_0494", "relation": "supplements", "reason": "新事件補充了相同想法，但刪除了來源情境，未推翻舊事件。", "evidence_turn_ids": ["u02_s29_u08"]}
+{"new_event_id": "pred_e_0542", "old_event_id": "pred_e_0523", "relation": "supplements", "reason": "新事件與舊事件內容一致，但舊事件補充了 Canva 履歷 這個相關細節，未使新事件失效。", "evidence_turn_ids": ["u02_s29_u08"]}
+{"new_event_id": "pred_e_0543", "old_event_id": "pred_e_0535", "relation": "supersedes", "reason": "新事件明確以「改為」並表示「不再沿用前面的安排」，屬於對同主題安排的更新取代。", "evidence_turn_ids": ["u02_s30_u01"]}
+{"new_event_id": "pred_e_0544", "old_event_id": "pred_e_0519", "relation": "supplements", "reason": "新事件是在補充如何使用學校職涯中心資訊的紀錄方式，與舊事件的暑期實習清單做法不衝突。", "evidence_turn_ids": ["u02_s30_u02"]}
+{"new_event_id": "pred_e_0545", "old_event_id": "pred_e_0530", "relation": "supplements", "reason": "新事件沿用先前要先問學姊小安、確認六月初前可否整理成穩定版本的方向，只是補充了具體對象是大學職涯公告。", "evidence_turn_ids": ["u02_s30_u03"]}
+{"new_event_id": "pred_e_0547", "old_event_id": "pred_e_0512", "relation": "supplements", "reason": "兩則都在說作品集已補上細節，但新事件只是補充另一段內容（Canva 履歷），不與舊事件互相取代。", "evidence_turn_ids": ["u02_s30_u05"]}
+{"new_event_id": "pred_e_0547", "old_event_id": "pred_e_0516", "relation": "supplements", "reason": "兩則都在描述作品集已補上細節，但新事件是補充另一段內容，未否定舊事件。", "evidence_turn_ids": ["u02_s30_u05"]}
+{"new_event_id": "pred_e_0547", "old_event_id": "pred_e_0528", "relation": "supplements", "reason": "新事件是在說作品集已補上的另一處細節，與舊事件同主題但補充了不同內容，彼此不衝突。", "evidence_turn_ids": ["u02_s30_u05"]}
+{"new_event_id": "pred_e_0547", "old_event_id": "pred_e_0532", "relation": "supplements", "reason": "新事件是在同一作品集完成補充，但補的是不同細節（Canva 履歷），不否定舊事件中 GitHub Pages 的補充內容。", "evidence_turn_ids": ["u02_s30_u05"]}
+{"new_event_id": "pred_e_0550", "old_event_id": "pred_e_0531", "relation": "supplements", "reason": "新事件延續不只靠腦袋記作品集的偏好，並補充了具體例子為暑期實習細節，沒有推翻舊事件。", "evidence_turn_ids": ["u02_s30_u08"]}
+{"new_event_id": "pred_e_0550", "old_event_id": "pred_e_0546", "relation": "supplements", "reason": "新事件延續不只靠腦袋記作品集內容的偏好，並補充了暑期實習這類細節，沒有使舊事件失效。", "evidence_turn_ids": ["u02_s30_u08"]}

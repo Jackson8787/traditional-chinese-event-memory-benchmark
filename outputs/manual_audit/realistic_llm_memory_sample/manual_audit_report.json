@@ -1,0 +1,14 @@
+{
+  "relation_audit_count": 100,
+  "answer_audit_count": 50,
+  "relation_limit": 100,
+  "answer_limit": 50,
+  "input_relation_count": 568,
+  "input_answer_count": 60,
+  "output_dir": "outputs/manual_audit/realistic_llm_memory_sample",
+  "manual_label_schema": {
+    "manual_relation_label": "correct|partially_correct|incorrect|unclear",
+    "manual_answer_label": "correct|partially_correct|incorrect|abstention_correct|unclear",
+    "manual_evidence_label": "complete|partial|wrong|not_needed|unclear"
+  }
+}
